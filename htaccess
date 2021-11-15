@@ -1,0 +1,2369 @@
+RewriteEngine on
+
+# Page Title: what's new in version 0.2.x
+RewriteRule   "^/x/ooOO"  "https://loxwiki.atlassian.net/wiki/x/mAPHOQ" [R=301,L]
+
+# Page Title: datenmodell
+RewriteRule   "^/x/bwI_Ag"  "https://loxwiki.atlassian.net/wiki/x/ZYJ2Ow" [R=301,L]
+
+# Page Title: kopie modbus gateway
+RewriteRule   "^/x/ZgDgAQ"  "https://loxwiki.atlassian.net/wiki/x/XIAYOw" [R=301,L]
+
+# Page Title: nertzwerk-freigaben
+RewriteRule   "^/x/IYRYAg"  "https://loxwiki.atlassian.net/wiki/x/FwSROw" [R=301,L]
+
+# Page Title: loxberry::system::pluginversion()
+RewriteRule   "^/x/1wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/zYGeOg" [R=301,L]
+
+# Page Title: stats4lox-import
+RewriteRule   "^/x/9gnL"  "https://loxwiki.atlassian.net/wiki/x/7IkDOg" [R=301,L]
+
+# Page Title: ecowater
+RewriteRule   "^/x/J4jPAw"  "https://loxwiki.atlassian.net/wiki/x/HQgIPQ" [R=301,L]
+
+# Page Title: xiaomi miflora flower sensor
+RewriteRule   "^/x/4wASAg"  "https://loxwiki.atlassian.net/wiki/x/2YBKOw" [R=301,L]
+
+# Page Title: loxberry::system::systemloglevel
+RewriteRule   "^/x/EoJYAg"  "https://loxwiki.atlassian.net/wiki/x/CAKROw" [R=301,L]
+
+# Page Title: 3. import von miniserver-statistiken
+RewriteRule   "^/x/_4RWBQ"  "https://loxwiki.atlassian.net/wiki/x/8QSPPg" [R=301,L]
+
+# Page Title: lbweb::loglevel_select_html
+RewriteRule   "^/x/roNYAg"  "https://loxwiki.atlassian.net/wiki/x/pAOROw" [R=301,L]
+
+# Page Title: whats new in v1.4.0
+RewriteRule   "^/x/UICxAg"  "https://loxwiki.atlassian.net/wiki/x/RgDqOw" [R=301,L]
+
+# Page Title: loxberry::io::mshttp_call
+RewriteRule   "^/x/VQE_Ag"  "https://loxwiki.atlassian.net/wiki/x/S4F2Ow" [R=301,L]
+
+# Page Title: dyndns-refresher
+RewriteRule   "^/x/WoK4"  "https://loxwiki.atlassian.net/wiki/x/UALxOQ" [R=301,L]
+
+# Page Title: v-zug-home
+RewriteRule   "^/x/5AA_Ag"  "https://loxwiki.atlassian.net/wiki/x/2oB2Ow" [R=301,L]
+
+# Page Title: raspberry pi revision abfragen
+RewriteRule   "^/x/MQNmAQ"  "https://loxwiki.atlassian.net/wiki/x/J4OeOg" [R=301,L]
+
+# Page Title: loxberry::web::lblanguage
+RewriteRule   "^/x/vgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/tICzOg" [R=301,L]
+
+# Page Title: shellyswitch2 oder ??
+RewriteRule   "^/x/KoLeAg"  "https://loxwiki.atlassian.net/wiki/x/IAIXP" [R=301,L]
+
+# Page Title: installation von loxberry
+RewriteRule   "^/x/WISdAQ"  "https://loxwiki.atlassian.net/wiki/x/TgTWOg" [R=301,L]
+
+# Page Title: power button
+RewriteRule   "^/x/t4ZtB"  "https://loxwiki.atlassian.net/wiki/x/rQamPQ" [R=301,L]
+
+# Page Title: pv solcast
+RewriteRule   "^/x/24hWBQ"  "https://loxwiki.atlassian.net/wiki/x/0QiPPg" [R=301,L]
+
+# Page Title: lbsystem::plugindata
+RewriteRule   "^/x/UIG3AQ"  "https://loxwiki.atlassian.net/wiki/x/RgHwOg" [R=301,L]
+
+# Page Title: rgb bulb farbe ohne farbtemperatur
+RewriteRule   "^/x/OYHlB"  "https://loxwiki.atlassian.net/wiki/x/LwEePg" [R=301,L]
+
+# Page Title: node.js for plugins
+RewriteRule   "^/x/mIFdAw"  "https://loxwiki.atlassian.net/wiki/x/jgGWP" [R=301,L]
+
+# Page Title: unfi controller plugin
+RewriteRule   "^/x/DYAjBQ"  "https://loxwiki.atlassian.net/wiki/x/AwBcPg" [R=301,L]
+
+# Page Title: loxberry::mqtt::connectiondetails()
+RewriteRule   "^/x/5gGCAw"  "https://loxwiki.atlassian.net/wiki/x/3IG6P" [R=301,L]
+
+# Page Title: e3dc2lox
+RewriteRule   "^/x/s4M_AQ"  "https://loxwiki.atlassian.net/wiki/x/qQN3Og" [R=301,L]
+
+# Page Title: eigener spiegelserver
+RewriteRule   "^/x/5YFYAg"  "https://loxwiki.atlassian.net/wiki/x/2wGROw" [R=301,L]
+
+# Page Title: funktion loxberry-web-lbheader-lbfooter
+RewriteRule   "^/x/2wzL"  "https://loxwiki.atlassian.net/wiki/x/0YwDOg" [R=301,L]
+
+# Page Title: troubleshooting und tipps zur lms gateway-funktion
+RewriteRule   "^/x/qQvL"  "https://loxwiki.atlassian.net/wiki/x/n4sDOg" [R=301,L]
+
+# Page Title: plugin-installation direkt - ohne gui, ohne zip - loxberry 1.0
+RewriteRule   "^/x/d4RYAg"  "https://loxwiki.atlassian.net/wiki/x/bQSROw" [R=301,L]
+
+# Page Title: any plugin beispiele
+RewriteRule   "^/x/EwFmAQ"  "https://loxwiki.atlassian.net/wiki/x/CYGeOg" [R=301,L]
+
+# Page Title: loxberry::storage::get_all_storage
+RewriteRule   "^/x/DgHgAQ"  "https://loxwiki.atlassian.net/wiki/x/BIEYOw" [R=301,L]
+
+# Page Title: de: tabelle der deutschen fußball-bundesliga
+RewriteRule   "^/x/WYCzB"  "https://loxwiki.atlassian.net/wiki/x/TwDsPQ" [R=301,L]
+
+# Page Title: https2http
+RewriteRule   "^/x/lYKO"  "https://loxwiki.atlassian.net/wiki/x/iwLHOQ" [R=301,L]
+
+# Page Title: loxberry::io::mqtt_connectiondetails
+RewriteRule   "^/x/5gGCAw"  "https://loxwiki.atlassian.net/wiki/x/3IG6P" [R=301,L]
+
+# Page Title: 1wire onboard
+RewriteRule   "^/x/R4hWBQ"  "https://loxwiki.atlassian.net/wiki/x/PQiPPg" [R=301,L]
+
+# Page Title: s4l debug_stats.pl
+RewriteRule   "^/x/7YdWBQ"  "https://loxwiki.atlassian.net/wiki/x/4wePPg" [R=301,L]
+
+# Page Title: installation des vmware images auf der virtualisation station auf einer synology nas
+RewriteRule   "^/x/9AA_Ag"  "https://loxwiki.atlassian.net/wiki/x/6oB2Ow" [R=301,L]
+
+# Page Title: loxberry::system::pluginversion
+RewriteRule   "^/x/1wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/zYGeOg" [R=301,L]
+
+# Page Title: fensterstatus auslesen und als string bereitstellen
+RewriteRule   "^/x/PAIEB"  "https://loxwiki.atlassian.net/wiki/x/MoI8PQ" [R=301,L]
+
+# Page Title: mqtt library phpmqtt.php
+RewriteRule   "^/x/rAKCAw"  "https://loxwiki.atlassian.net/wiki/x/ooK6P" [R=301,L]
+
+# Page Title: playlisten / radio / dienste / lokale mp3
+RewriteRule   "^/x/OYbeAg"  "https://loxwiki.atlassian.net/wiki/x/LwYXP" [R=301,L]
+
+# Page Title: passwort für webinterface vergessen
+RewriteRule   "^/x/uwJmAQ"  "https://loxwiki.atlassian.net/wiki/x/sYKeOg" [R=301,L]
+
+# Page Title: create own cronjob on loxberry
+RewriteRule   "^/x/loPeAg"  "https://loxwiki.atlassian.net/wiki/x/jAMXP" [R=301,L]
+
+# Page Title: whats new in v1.4.2
+RewriteRule   "^/x/J4cKAw"  "https://loxwiki.atlassian.net/wiki/x/HQdDP" [R=301,L]
+
+# Page Title: manuelles update für zigbee2mqtt
+RewriteRule   "^/x/hopWBQ"  "https://loxwiki.atlassian.net/wiki/x/fAqPPg" [R=301,L]
+
+# Page Title: 1wire-onboard
+RewriteRule   "^/x/EgTPAg"  "https://loxwiki.atlassian.net/wiki/x/CIQHP" [R=301,L]
+
+# Page Title: plugins für den loxberry entwickeln (lb0.3)
+RewriteRule   "^/x/-QJmAQ"  "https://loxwiki.atlassian.net/wiki/x/84KeOg" [R=301,L]
+
+# Page Title: loxberry backup
+RewriteRule   "^/x/14U_AQ"  "https://loxwiki.atlassian.net/wiki/x/zQV3Og" [R=301,L]
+
+# Page Title: loxberry-reset-root
+RewriteRule   "^/x/8otWBQ"  "https://loxwiki.atlassian.net/wiki/x/6AuPPg" [R=301,L]
+
+# Page Title: using multiple loxberry's with a single mqtt broker
+RewriteRule   "^/x/MYCzB"  "https://loxwiki.atlassian.net/wiki/x/JwDsPQ" [R=301,L]
+
+# Page Title: loxberry version 1.0 - beyond the limits
+RewriteRule   "^/x/nIOdAQ"  "https://loxwiki.atlassian.net/wiki/x/kgPWOg" [R=301,L]
+
+# Page Title: php module loxberry_log.php
+RewriteRule   "^/x/ioC3AQ"  "https://loxwiki.atlassian.net/wiki/x/gADwOg" [R=301,L]
+
+# Page Title: lbsystem::get_miniservers
+RewriteRule   "^/x/oQN7AQ"  "https://loxwiki.atlassian.net/wiki/x/l4OzOg" [R=301,L]
+
+# Page Title: instar kamera 9008/9020
+RewriteRule   "^/x/UIHlB"  "https://loxwiki.atlassian.net/wiki/x/RgEePg" [R=301,L]
+
+# Page Title: what's new in v1.2.3
+RewriteRule   "^/x/WAA_Ag"  "https://loxwiki.atlassian.net/wiki/x/ToB2Ow" [R=301,L]
+
+# Page Title: rgb bulb farbe mit farbtemperatur
+RewriteRule   "^/x/DILlB"  "https://loxwiki.atlassian.net/wiki/x/AgIePg" [R=301,L]
+
+# Page Title: lbsystem::lbfriendlyname
+RewriteRule   "^/x/sAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/poOzOg" [R=301,L]
+
+# Page Title: chromecast 4 lox
+RewriteRule   "^/x/wYcKAw"  "https://loxwiki.atlassian.net/wiki/x/twdDP" [R=301,L]
+
+# Page Title: whats new in v2.0.2
+RewriteRule   "^/x/GATqAw"  "https://loxwiki.atlassian.net/wiki/x/DoQiPQ" [R=301,L]
+
+# Page Title: perl class grafana
+RewriteRule   "^/x/Q4VWBQ"  "https://loxwiki.atlassian.net/wiki/x/OQWPPg" [R=301,L]
+
+# Page Title: loxberry::web::loglist_button_html
+RewriteRule   "^/x/EgLgAQ"  "https://loxwiki.atlassian.net/wiki/x/CIIYOw" [R=301,L]
+
+# Page Title: stats4lox::msget_value
+RewriteRule   "^/x/34NWBQ"  "https://loxwiki.atlassian.net/wiki/x/1QOPPg" [R=301,L]
+
+# Page Title: funktion loxberry::system::pluginversion()
+RewriteRule   "^/x/1wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/zYGeOg" [R=301,L]
+
+# Page Title: hmip-ps
+RewriteRule   "^/x/mYKzB"  "https://loxwiki.atlassian.net/wiki/x/jwLsPQ" [R=301,L]
+
+# Page Title: modul loxberry::web
+RewriteRule   "^/x/wQzL"  "https://loxwiki.atlassian.net/wiki/x/t4wDOg" [R=301,L]
+
+# Page Title: view web page logfiles within the webinterface
+RewriteRule   "^/x/1wd7AQ"  "https://loxwiki.atlassian.net/wiki/x/zYezOg" [R=301,L]
+
+# Page Title: plugindatabase.dat
+RewriteRule   "^/x/BQV7AQ"  "https://loxwiki.atlassian.net/wiki/x/_4SzOg" [R=301,L]
+
+# Page Title: shellyswitch2
+RewriteRule   "^/x/KoLeAg"  "https://loxwiki.atlassian.net/wiki/x/IAIXP" [R=301,L]
+
+# Page Title: fronius api abfragen und per mqtt ausgeben
+RewriteRule   "^/x/cINdAw"  "https://loxwiki.atlassian.net/wiki/x/ZgOWP" [R=301,L]
+
+# Page Title: passwort webinterface
+RewriteRule   "^/x/uwJmAQ"  "https://loxwiki.atlassian.net/wiki/x/sYKeOg" [R=301,L]
+
+# Page Title: any plugin
+RewriteRule   "^/x/7wBmAQ"  "https://loxwiki.atlassian.net/wiki/x/5YCeOg" [R=301,L]
+
+# Page Title: apc-ups
+RewriteRule   "^/x/6Q3L"  "https://loxwiki.atlassian.net/wiki/x/340DOg" [R=301,L]
+
+# Page Title: eine ssh-verbindung mit putty aufbauen / shell-zugriff
+RewriteRule   "^/x/DIG4"  "https://loxwiki.atlassian.net/wiki/x/AgHxOQ" [R=301,L]
+
+# Page Title: loxberry::log::get_notifications_html
+RewriteRule   "^/x/oIC3AQ"  "https://loxwiki.atlassian.net/wiki/x/lgDwOg" [R=301,L]
+
+# Page Title: mqtt_connect
+RewriteRule   "^/x/IohWBQ"  "https://loxwiki.atlassian.net/wiki/x/GAiPPg" [R=301,L]
+
+# Page Title: whats new in v2.0.0
+RewriteRule   "^/x/EYBdAw"  "https://loxwiki.atlassian.net/wiki/x/BwCWP" [R=301,L]
+
+# Page Title: entwicker tipps und tricks
+RewriteRule   "^/x/aIC4"  "https://loxwiki.atlassian.net/wiki/x/XgDxOQ" [R=301,L]
+
+# Page Title: alexa2lox 3.99
+RewriteRule   "^/x/FAHqAw"  "https://loxwiki.atlassian.net/wiki/x/CoEiPQ" [R=301,L]
+
+# Page Title: loxberry update
+RewriteRule   "^/x/b4WdAQ"  "https://loxwiki.atlassian.net/wiki/x/ZQXWOg" [R=301,L]
+
+# Page Title: widget network
+RewriteRule   "^/x/SogKAw"  "https://loxwiki.atlassian.net/wiki/x/QAhDP" [R=301,L]
+
+# Page Title: lbsystem::lblanguage
+RewriteRule   "^/x/EodtB"  "https://loxwiki.atlassian.net/wiki/x/CAemPQ" [R=301,L]
+
+# Page Title: cloud-dns-query
+RewriteRule   "^/x/HIPeAg"  "https://loxwiki.atlassian.net/wiki/x/EgMXP" [R=301,L]
+
+# Page Title: loxberry::io::mqtt_publish/mqtt_retain/mqtt_set
+RewriteRule   "^/x/EohWBQ"  "https://loxwiki.atlassian.net/wiki/x/CAiPPg" [R=301,L]
+
+# Page Title: web ui - development in loxberry
+RewriteRule   "^/x/toKdAQ"  "https://loxwiki.atlassian.net/wiki/x/rALWOg" [R=301,L]
+
+# Page Title: perl template-system ab loxberry 1.0
+RewriteRule   "^/x/qQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/n4KeOg" [R=301,L]
+
+# Page Title: einbau onboard
+RewriteRule   "^/x/R4hWBQ"  "https://loxwiki.atlassian.net/wiki/x/PQiPPg" [R=301,L]
+
+# Page Title: loxberry::system::lblanguage
+RewriteRule   "^/x/vgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/tICzOg" [R=301,L]
+
+# Page Title: windows ? linux end-of-line
+RewriteRule   "^/x/Zg7L"  "https://loxwiki.atlassian.net/wiki/x/XI4DOg" [R=301,L]
+
+# Page Title: message the logfile database sends an error and cannot automatically be recovered
+RewriteRule   "^/x/oIMKAw"  "https://loxwiki.atlassian.net/wiki/x/lgNDP" [R=301,L]
+
+# Page Title: raspberry-cpu-temperatur als mqtt-topic
+RewriteRule   "^/x/34dYAg"  "https://loxwiki.atlassian.net/wiki/x/1QeROw" [R=301,L]
+
+# Page Title: loxberry::web::loglist_html
+RewriteRule   "^/x/T4FYAg"  "https://loxwiki.atlassian.net/wiki/x/RQGROw" [R=301,L]
+
+# Page Title: udp transformer - moving_minmaxavg (shipped)
+RewriteRule   "^/x/ToFWBQ"  "https://loxwiki.atlassian.net/wiki/x/RAGPPg" [R=301,L]
+
+# Page Title: perl - plugins entwickeln mit perl
+RewriteRule   "^/x/2wN7AQ"  "https://loxwiki.atlassian.net/wiki/x/0YOzOg" [R=301,L]
+
+# Page Title: lbsystem::get_localip
+RewriteRule   "^/x/sgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/qIOzOg" [R=301,L]
+
+# Page Title: plugin für den loxberry entwickeln (version 1.x)
+RewriteRule   "^/x/-QJmAQ"  "https://loxwiki.atlassian.net/wiki/x/84KeOg" [R=301,L]
+
+# Page Title: perl-modul stats4lox
+RewriteRule   "^/x/3YNWBQ"  "https://loxwiki.atlassian.net/wiki/x/0wOPPg" [R=301,L]
+
+# Page Title: loxberry xl scripts regelmäßig ausführen
+RewriteRule   "^/x/uYCzB"  "https://loxwiki.atlassian.net/wiki/x/rwDsPQ" [R=301,L]
+
+# Page Title: funktion loxberry-system-get_binaries()
+RewriteRule   "^/x/rQ7L"  "https://loxwiki.atlassian.net/wiki/x/o44DOg" [R=301,L]
+
+# Page Title: husqvarna automower connect
+RewriteRule   "^/x/GoNtB"  "https://loxwiki.atlassian.net/wiki/x/EAOmPQ" [R=301,L]
+
+# Page Title: lblog::newlog (logging constructor php)
+RewriteRule   "^/x/PgLgAQ"  "https://loxwiki.atlassian.net/wiki/x/NIIYOw" [R=301,L]
+
+# Page Title: virtueller loxberry auf der hyper-v plattform betreiben
+RewriteRule   "^/x/VQjL"  "https://loxwiki.atlassian.net/wiki/x/S4gDOg" [R=301,L]
+
+# Page Title: at - covid-zahlen pro bezirk
+RewriteRule   "^/x/LIKzB"  "https://loxwiki.atlassian.net/wiki/x/IgLsPQ" [R=301,L]
+
+# Page Title: node.js v12 auf pi 1 / pi zero
+RewriteRule   "^/x/OIZtB"  "https://loxwiki.atlassian.net/wiki/x/LgamPQ" [R=301,L]
+
+# Page Title: modul loxberry::system
+RewriteRule   "^/x/vAzL"  "https://loxwiki.atlassian.net/wiki/x/sowDOg" [R=301,L]
+
+# Page Title: what's new in v1.0.0
+RewriteRule   "^/x/4gFmAQ"  "https://loxwiki.atlassian.net/wiki/x/2IGeOg" [R=301,L]
+
+# Page Title: hmip-ps (schaltsteckdose)
+RewriteRule   "^/x/mYKzB"  "https://loxwiki.atlassian.net/wiki/x/jwLsPQ" [R=301,L]
+
+# Page Title: alexa2lox 2.0
+RewriteRule   "^/x/8AB7AQ"  "https://loxwiki.atlassian.net/wiki/x/5oCzOg" [R=301,L]
+
+# Page Title: loxberry::system::plugindata
+RewriteRule   "^/x/TYG3AQ"  "https://loxwiki.atlassian.net/wiki/x/QwHwOg" [R=301,L]
+
+# Page Title: synology / qnap
+RewriteRule   "^/x/9AA_Ag"  "https://loxwiki.atlassian.net/wiki/x/6oB2Ow" [R=301,L]
+
+# Page Title: s4l source-interface
+RewriteRule   "^/x/n4BYAg"  "https://loxwiki.atlassian.net/wiki/x/lQCROw" [R=301,L]
+
+# Page Title: loxberry::log::new (logging constructor)
+RewriteRule   "^/x/pQHgAQ"  "https://loxwiki.atlassian.net/wiki/x/m4EYOw" [R=301,L]
+
+# Page Title: stats4lox datenquell- und datenziel-plugins
+RewriteRule   "^/x/m4BYAg"  "https://loxwiki.atlassian.net/wiki/x/kQCROw" [R=301,L]
+
+# Page Title: österreich - covid-zahlen pro bezirk
+RewriteRule   "^/x/LIKzB"  "https://loxwiki.atlassian.net/wiki/x/IgLsPQ" [R=301,L]
+
+# Page Title: simple weather service
+RewriteRule   "^/x/OYAxB"  "https://loxwiki.atlassian.net/wiki/x/LwBqPQ" [R=301,L]
+
+# Page Title: was ist der securepin?
+RewriteRule   "^/x/3IOdAQ"  "https://loxwiki.atlassian.net/wiki/x/0gPWOg" [R=301,L]
+
+# Page Title: templates für ausgänge
+RewriteRule   "^/x/rYDlB"  "https://loxwiki.atlassian.net/wiki/x/owAePg" [R=301,L]
+
+# Page Title: usage of the notification functions
+RewriteRule   "^/x/eQd7AQ"  "https://loxwiki.atlassian.net/wiki/x/b4ezOg" [R=301,L]
+
+# Page Title: unifi präsenz
+RewriteRule   "^/x/0IBhBg"  "" [R=301,L]
+
+# Page Title: loxberry::system::get_miniserver_by_ip
+RewriteRule   "^/x/lQB7AQ"  "https://loxwiki.atlassian.net/wiki/x/i4CzOg" [R=301,L]
+
+# Page Title: tools
+RewriteRule   "^/x/eodWBQ"  "https://loxwiki.atlassian.net/wiki/x/cAePPg" [R=301,L]
+
+# Page Title: modul stats4lox
+RewriteRule   "^/x/cQI_Ag"  "https://loxwiki.atlassian.net/wiki/x/Z4J2Ow" [R=301,L]
+
+# Page Title: european day of languages (26th september)
+RewriteRule   "^/x/04K3AQ"  "https://loxwiki.atlassian.net/wiki/x/yQLwOg" [R=301,L]
+
+# Page Title: loxberry::system::unlock
+RewriteRule   "^/x/KoOdAQ"  "https://loxwiki.atlassian.net/wiki/x/IAPWOg" [R=301,L]
+
+# Page Title: versionsnummern von plugins
+RewriteRule   "^/x/LYG3AQ"  "https://loxwiki.atlassian.net/wiki/x/IwHwOg" [R=301,L]
+
+# Page Title: loxberry::system::lock
+RewriteRule   "^/x/KIOdAQ"  "https://loxwiki.atlassian.net/wiki/x/HgPWOg" [R=301,L]
+
+# Page Title: s4l sink-interface
+RewriteRule   "^/x/oYBYAg"  "https://loxwiki.atlassian.net/wiki/x/lwCROw" [R=301,L]
+
+# Page Title: widget my loxberry
+RewriteRule   "^/x/_oYKAw"  "https://loxwiki.atlassian.net/wiki/x/8AZDP" [R=301,L]
+
+# Page Title: stats4lox
+RewriteRule   "^/x/voK4"  "https://loxwiki.atlassian.net/wiki/x/tALxOQ" [R=301,L]
+
+# Page Title: fhem geräte per mqtt steuern
+RewriteRule   "^/x/eoIxB"  "https://loxwiki.atlassian.net/wiki/x/cAJqPQ" [R=301,L]
+
+# Page Title: sonstige befehle
+RewriteRule   "^/x/VofeAg"  "https://loxwiki.atlassian.net/wiki/x/TAcXP" [R=301,L]
+
+# Page Title: php module loxberry_json.php
+RewriteRule   "^/x/LYZtB"  "https://loxwiki.atlassian.net/wiki/x/IwamPQ" [R=301,L]
+
+# Page Title: netatmo weather
+RewriteRule   "^/x/yoA_AQ"  "https://loxwiki.atlassian.net/wiki/x/wAB3Og" [R=301,L]
+
+# Page Title: loxberry on raspberry pi 1 or zero
+RewriteRule   "^/x/doSdAQ"  "https://loxwiki.atlassian.net/wiki/x/bATWOg" [R=301,L]
+
+# Page Title: lbweb::loglist_html
+RewriteRule   "^/x/UoFYAg"  "https://loxwiki.atlassian.net/wiki/x/SAGROw" [R=301,L]
+
+# Page Title: php module loxberry_loxonetemplatebuilder.php
+RewriteRule   "^/x/twCCAw"  "https://loxwiki.atlassian.net/wiki/x/rYC6P" [R=301,L]
+
+# Page Title: loxberry::web::logfile_button_html
+RewriteRule   "^/x/BQLgAQ"  "https://loxwiki.atlassian.net/wiki/x/_4EYOw" [R=301,L]
+
+# Page Title: deskapp - freie app für windows and macos
+RewriteRule   "^/x/e4FhBg"  "" [R=301,L]
+
+# Page Title: funktion loxberry::system::get_ftpport()
+RewriteRule   "^/x/vQ7L"  "https://loxwiki.atlassian.net/wiki/x/s44DOg" [R=301,L]
+
+# Page Title: mqtt gateway - konfiguration sichern und auf anderem/neuen loxberry wiederherstellen
+RewriteRule   "^/x/MQHPAg"  "https://loxwiki.atlassian.net/wiki/x/J4EHP" [R=301,L]
+
+# Page Title: start mit loxberry xl
+RewriteRule   "^/x/cQAEB"  "https://loxwiki.atlassian.net/wiki/x/Z4A8PQ" [R=301,L]
+
+# Page Title: widget updates
+RewriteRule   "^/x/V4gKAw"  "https://loxwiki.atlassian.net/wiki/x/TQhDP" [R=301,L]
+
+# Page Title: spiegel-sites / downloadserver
+RewriteRule   "^/x/YQR7AQ"  "https://loxwiki.atlassian.net/wiki/x/V4SzOg" [R=301,L]
+
+# Page Title: loxberry dokumentation
+RewriteRule   "^/x/o4CO"  "https://loxwiki.atlassian.net/wiki/x/mQDHOQ" [R=301,L]
+
+# Page Title: widget filemanager
+RewriteRule   "^/x/0YgKAw"  "https://loxwiki.atlassian.net/wiki/x/xwhDP" [R=301,L]
+
+# Page Title: easee home wallbox
+RewriteRule   "^/x/xYFWBQ"  "https://loxwiki.atlassian.net/wiki/x/uwGPPg" [R=301,L]
+
+# Page Title: hardware für die steuerung
+RewriteRule   "^/x/EoJtB"  "https://loxwiki.atlassian.net/wiki/x/CAKmPQ" [R=301,L]
+
+# Page Title: alexa2lox 3.0
+RewriteRule   "^/x/8AB7AQ"  "https://loxwiki.atlassian.net/wiki/x/5oCzOg" [R=301,L]
+
+# Page Title: lbweb::readlanguage
+RewriteRule   "^/x/zAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/woOzOg" [R=301,L]
+
+# Page Title: mfi® controllable power outlets
+RewriteRule   "^/x/J4H-/"  "https://loxwiki.atlassian.net/wiki/x/HQE4Og" [R=301,L]
+
+# Page Title: ...
+RewriteRule   "^/x/JYLeAg"  "https://loxwiki.atlassian.net/wiki/x/GwIXP" [R=301,L]
+
+# Page Title: at - oö wasserpegel
+RewriteRule   "^/x/g4KzB"  "https://loxwiki.atlassian.net/wiki/x/eQLsPQ" [R=301,L]
+
+# Page Title: parameters of notify_ext
+RewriteRule   "^/x/-YC3AQ"  "https://loxwiki.atlassian.net/wiki/x/8wDwOg" [R=301,L]
+
+# Page Title: loxberry::system::get_binaries
+RewriteRule   "^/x/rQ7L"  "https://loxwiki.atlassian.net/wiki/x/o44DOg" [R=301,L]
+
+# Page Title: deskapp - freie app für windows und macos
+RewriteRule   "^/x/e4FhBg"  "" [R=301,L]
+
+# Page Title: solaredge bridge
+RewriteRule   "^/x/VgD8B"  "https://loxwiki.atlassian.net/wiki/x/TIA0Pg" [R=301,L]
+
+# Page Title: loxberry update fix
+RewriteRule   "^/x/qIFYAg"  "https://loxwiki.atlassian.net/wiki/x/ngGROw" [R=301,L]
+
+# Page Title: plugins für den loxberry entwickeln (alpha-version 0.3.x)
+RewriteRule   "^/x/-QJmAQ"  "https://loxwiki.atlassian.net/wiki/x/84KeOg" [R=301,L]
+
+# Page Title: per git am loxberry core entwickeln
+RewriteRule   "^/x/7QR7AQ"  "https://loxwiki.atlassian.net/wiki/x/44SzOg" [R=301,L]
+
+# Page Title: general.json
+RewriteRule   "^/x/RQbqAw"  "https://loxwiki.atlassian.net/wiki/x/O4YiPQ" [R=301,L]
+
+# Page Title: lbsystem::get_plugins
+RewriteRule   "^/x/uQN7AQ"  "https://loxwiki.atlassian.net/wiki/x/r4OzOg" [R=301,L]
+
+# Page Title: command recognition - befehlserkennung
+RewriteRule   "^/x/-gA_Ag"  "https://loxwiki.atlassian.net/wiki/x/9IB2Ow" [R=301,L]
+
+# Page Title: renault my ze
+RewriteRule   "^/x/KoNdAw"  "https://loxwiki.atlassian.net/wiki/x/IAOWP" [R=301,L]
+
+# Page Title: what's new in loxberry 0.3.x
+RewriteRule   "^/x/4gFmAQ"  "https://loxwiki.atlassian.net/wiki/x/2IGeOg" [R=301,L]
+
+# Page Title: perl-modul loxberry::web
+RewriteRule   "^/x/wQzL"  "https://loxwiki.atlassian.net/wiki/x/t4wDOg" [R=301,L]
+
+# Page Title: grafana panels mit stats4lox daten
+RewriteRule   "^/x/TodWBQ"  "https://loxwiki.atlassian.net/wiki/x/RAePPg" [R=301,L]
+
+# Page Title: eigenes image erstellen (alphaversion 0.3.x)
+RewriteRule   "^/x/VoU_AQ"  "https://loxwiki.atlassian.net/wiki/x/TAV3Og" [R=301,L]
+
+# Page Title: injected content / dynamischer inhalt und jquery mobile
+RewriteRule   "^/x/LYWdAQ"  "https://loxwiki.atlassian.net/wiki/x/IwXWOg" [R=301,L]
+
+# Page Title: loxberry performance on raspberry pi 1 or raspberry zero
+RewriteRule   "^/x/doSdAQ"  "https://loxwiki.atlassian.net/wiki/x/bATWOg" [R=301,L]
+
+# Page Title: modbus powermeter (eastron sdm) !!entwurf!!
+RewriteRule   "^/x/AgJmAQ"  "https://loxwiki.atlassian.net/wiki/x/_IGeOg" [R=301,L]
+
+# Page Title: any-plugin - infos und known issues zur alpha-version
+RewriteRule   "^/x/DwFmAQ"  "https://loxwiki.atlassian.net/wiki/x/BYGeOg" [R=301,L]
+
+# Page Title: loxberry::web::readlanguage
+RewriteRule   "^/x/GAJ7AQ"  "https://loxwiki.atlassian.net/wiki/x/DoKzOg" [R=301,L]
+
+# Page Title: loxberry::io::mqtt_connectiondetails()
+RewriteRule   "^/x/5gGCAw"  "https://loxwiki.atlassian.net/wiki/x/3IG6P" [R=301,L]
+
+# Page Title: amazon echo / ha bridge
+RewriteRule   "^/x/c4D-/"  "https://loxwiki.atlassian.net/wiki/x/aQA4Og" [R=301,L]
+
+# Page Title: validierung von eingabefeldern
+RewriteRule   "^/x/jgd7AQ"  "https://loxwiki.atlassian.net/wiki/x/hIezOg" [R=301,L]
+
+# Page Title: loxberry::web::head
+RewriteRule   "^/x/xAB7AQ"  "https://loxwiki.atlassian.net/wiki/x/uoCzOg" [R=301,L]
+
+# Page Title: mqtt gateway for plugin developers
+RewriteRule   "^/x/6AGCAw"  "https://loxwiki.atlassian.net/wiki/x/3oG6P" [R=301,L]
+
+# Page Title: playlisten / radio / dienste / lokale dateien
+RewriteRule   "^/x/OYbeAg"  "https://loxwiki.atlassian.net/wiki/x/LwYXP" [R=301,L]
+
+# Page Title: kalliope
+RewriteRule   "^/x/HYH-/"  "https://loxwiki.atlassian.net/wiki/x/EwE4Og" [R=301,L]
+
+# Page Title: remote unterstützung (benutzer)
+RewriteRule   "^/x/tYGxAg"  "https://loxwiki.atlassian.net/wiki/x/qwHqOw" [R=301,L]
+
+# Page Title: ondilo ico poolsensor - loxberry plugin
+RewriteRule   "^/x/1IlWBQ"  "https://loxwiki.atlassian.net/wiki/x/ygmPPg" [R=301,L]
+
+# Page Title: ikea blind
+RewriteRule   "^/x/3YDlB"  "https://loxwiki.atlassian.net/wiki/x/0wAePg" [R=301,L]
+
+# Page Title: php module loxberry_system.php
+RewriteRule   "^/x/BQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/_4GeOg" [R=301,L]
+
+# Page Title: kodi
+RewriteRule   "^/x/X4S3AQ"  "https://loxwiki.atlassian.net/wiki/x/VQTwOg" [R=301,L]
+
+# Page Title: loxberry::web::loglist_url
+RewriteRule   "^/x/FQLgAQ"  "https://loxwiki.atlassian.net/wiki/x/C4IYOw" [R=301,L]
+
+# Page Title: loxberry::system::lbfriendlyname
+RewriteRule   "^/x/rQB7AQ"  "https://loxwiki.atlassian.net/wiki/x/o4CzOg" [R=301,L]
+
+# Page Title: mshttp_call
+RewriteRule   "^/x/EoFYAg"  "https://loxwiki.atlassian.net/wiki/x/CAGROw" [R=301,L]
+
+# Page Title: durchsagen (text-2-speech)
+RewriteRule   "^/x/OIbeAg"  "https://loxwiki.atlassian.net/wiki/x/LgYXP" [R=301,L]
+
+# Page Title: loxberry update failure ("try 5: checking file size of download...")
+RewriteRule   "^/x/8IBYAg"  "https://loxwiki.atlassian.net/wiki/x/5gCROw" [R=301,L]
+
+# Page Title: logitech media server manuell am loxberry installieren
+RewriteRule   "^/x/KoDVAQ"  "https://loxwiki.atlassian.net/wiki/x/IAAOOw" [R=301,L]
+
+# Page Title: miyoplugin
+RewriteRule   "^/x/yYYKAw"  "https://loxwiki.atlassian.net/wiki/x/vwZDP" [R=301,L]
+
+# Page Title: shelly motion
+RewriteRule   "^/x/tIhWBQ"  "https://loxwiki.atlassian.net/wiki/x/qgiPPg" [R=301,L]
+
+# Page Title: lbweb::loglist_url
+RewriteRule   "^/x/GwLgAQ"  "https://loxwiki.atlassian.net/wiki/x/EYIYOw" [R=301,L]
+
+# Page Title: stats4lox schritt für schritt
+RewriteRule   "^/x/9YRWBQ"  "https://loxwiki.atlassian.net/wiki/x/6wSPPg" [R=301,L]
+
+# Page Title: mqtt gateway - faq
+RewriteRule   "^/x/h4BWBQ"  "https://loxwiki.atlassian.net/wiki/x/fQCPPg" [R=301,L]
+
+# Page Title: hmip-slo (lichtsensor)
+RewriteRule   "^/x/nIKzB"  "https://loxwiki.atlassian.net/wiki/x/kgLsPQ" [R=301,L]
+
+# Page Title: loxberry::system::check_securepin
+RewriteRule   "^/x/cgd7AQ"  "https://loxwiki.atlassian.net/wiki/x/aIezOg" [R=301,L]
+
+# Page Title: if / then / else als einzeiler (perl und php)
+RewriteRule   "^/x/1A7L"  "https://loxwiki.atlassian.net/wiki/x/yo4DOg" [R=301,L]
+
+# Page Title: md5-hash - dirtree_md5.pl
+RewriteRule   "^/x/n4ZtB"  "https://loxwiki.atlassian.net/wiki/x/lQamPQ" [R=301,L]
+
+# Page Title: was ist mqtt? warum mqtt?
+RewriteRule   "^/x/f4dYAg"  "https://loxwiki.atlassian.net/wiki/x/dQeROw" [R=301,L]
+
+# Page Title: widget mail server
+RewriteRule   "^/x/j4gKAw"  "https://loxwiki.atlassian.net/wiki/x/hQhDP" [R=301,L]
+
+# Page Title: midea2lox
+RewriteRule   "^/x/H4feAg"  "https://loxwiki.atlassian.net/wiki/x/FQcXP" [R=301,L]
+
+# Page Title: ultraschall entfernung
+RewriteRule   "^/x/LAQWAQ"  "https://loxwiki.atlassian.net/wiki/x/IoROOg" [R=301,L]
+
+# Page Title: loxberry auf esxi 7.0
+RewriteRule   "^/x/-YBhBg"  "" [R=301,L]
+
+# Page Title: udp transformer - http2mqtt (shipped)
+RewriteRule   "^/x/GoFWBQ"  "https://loxwiki.atlassian.net/wiki/x/EAGPPg" [R=301,L]
+
+# Page Title: system_tmpfs is below limit of 5% discspace - please reboot your loxberry
+RewriteRule   "^/x/iIZtB"  "https://loxwiki.atlassian.net/wiki/x/fgamPQ" [R=301,L]
+
+# Page Title: t2s durchsagen
+RewriteRule   "^/x/OIbeAg"  "https://loxwiki.atlassian.net/wiki/x/LgYXP" [R=301,L]
+
+# Page Title: http-eingänge am miniserver debuggen
+RewriteRule   "^/x/VYSxAg"  "https://loxwiki.atlassian.net/wiki/x/SwTqOw" [R=301,L]
+
+# Page Title: lbsystem::lbwebserverport
+RewriteRule   "^/x/vgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/tIOzOg" [R=301,L]
+
+# Page Title: shelly1pm
+RewriteRule   "^/x/JYLeAg"  "https://loxwiki.atlassian.net/wiki/x/GwIXP" [R=301,L]
+
+# Page Title: led farbe ohne farbtemperatur
+RewriteRule   "^/x/OYHlB"  "https://loxwiki.atlassian.net/wiki/x/LwEePg" [R=301,L]
+
+# Page Title: 2. einrichten des zeitgesteuerten statistik-abrufs
+RewriteRule   "^/x/_YRWBQ"  "https://loxwiki.atlassian.net/wiki/x/7wSPPg" [R=301,L]
+
+# Page Title: unfi controllerplugin
+RewriteRule   "^/x/DYAjBQ"  "https://loxwiki.atlassian.net/wiki/x/AwBcPg" [R=301,L]
+
+# Page Title: develop plugins with php
+RewriteRule   "^/x/3QN7AQ"  "https://loxwiki.atlassian.net/wiki/x/04OzOg" [R=301,L]
+
+# Page Title: erste schritte
+RewriteRule   "^/x/FIKO"  "https://loxwiki.atlassian.net/wiki/x/CgLHOQ" [R=301,L]
+
+# Page Title: perl loxberry api dokumentation
+RewriteRule   "^/x/uAzL"  "https://loxwiki.atlassian.net/wiki/x/rowDOg" [R=301,L]
+
+# Page Title: what is the securepin?
+RewriteRule   "^/x/roCxAg"  "https://loxwiki.atlassian.net/wiki/x/pADqOw" [R=301,L]
+
+# Page Title: token extrahieren
+RewriteRule   "^/x/QAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/NoOzOg" [R=301,L]
+
+# Page Title: loxberry::io::mqtt_get
+RewriteRule   "^/x/FIhWBQ"  "https://loxwiki.atlassian.net/wiki/x/CgiPPg" [R=301,L]
+
+# Page Title: simpler ir leser für das smartmeter plugin
+RewriteRule   "^/x/A4ExB"  "https://loxwiki.atlassian.net/wiki/x/_QBqPQ" [R=301,L]
+
+# Page Title: first steps
+RewriteRule   "^/x/34C3AQ"  "https://loxwiki.atlassian.net/wiki/x/1QDwOg" [R=301,L]
+
+# Page Title: silvercrest lichterkette
+RewriteRule   "^/x/JoHlB"  "https://loxwiki.atlassian.net/wiki/x/HAEePg" [R=301,L]
+
+# Page Title: relay schaltung
+RewriteRule   "^/x/OIG3AQ"  "https://loxwiki.atlassian.net/wiki/x/LgHwOg" [R=301,L]
+
+# Page Title: solaredge brigde
+RewriteRule   "^/x/VgD8B"  "https://loxwiki.atlassian.net/wiki/x/TIA0Pg" [R=301,L]
+
+# Page Title: writing ini files in php
+RewriteRule   "^/x/gwd7AQ"  "https://loxwiki.atlassian.net/wiki/x/eYezOg" [R=301,L]
+
+# Page Title: windows <--> linux end-of-line
+RewriteRule   "^/x/Zg7L"  "https://loxwiki.atlassian.net/wiki/x/XI4DOg" [R=301,L]
+
+# Page Title: fhem
+RewriteRule   "^/x/f4K4"  "https://loxwiki.atlassian.net/wiki/x/dQLxOQ" [R=301,L]
+
+# Page Title: ikea starkvind
+RewriteRule   "^/x/UoBhBg"  "" [R=301,L]
+
+# Page Title: miele haushaltsgeräte auslesen:
+RewriteRule   "^/x/jwGCAw"  "https://loxwiki.atlassian.net/wiki/x/hYG6P" [R=301,L]
+
+# Page Title: plugins (english)
+RewriteRule   "^/x/DYWdAQ"  "https://loxwiki.atlassian.net/wiki/x/AwXWOg" [R=301,L]
+
+# Page Title: mqtt gateway - subscriptions und topics
+RewriteRule   "^/x/EALPAg"  "https://loxwiki.atlassian.net/wiki/x/BoIHP" [R=301,L]
+
+# Page Title: wifi scanner
+RewriteRule   "^/x/QoWdAQ"  "https://loxwiki.atlassian.net/wiki/x/OAXWOg" [R=301,L]
+
+# Page Title: silvercrest smart plug (lidl)
+RewriteRule   "^/x/9IDlB"  "https://loxwiki.atlassian.net/wiki/x/6gAePg" [R=301,L]
+
+# Page Title: mqtt gateway - alle fhem-readings weitergeben
+RewriteRule   "^/x/n4ZYAg"  "https://loxwiki.atlassian.net/wiki/x/lQaROw" [R=301,L]
+
+# Page Title: stats4lox::telegrafinternals
+RewriteRule   "^/x/6oVWBQ"  "https://loxwiki.atlassian.net/wiki/x/4AWPPg" [R=301,L]
+
+# Page Title: lbsystem::get_miniserver_by_ip
+RewriteRule   "^/x/pAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/moOzOg" [R=301,L]
+
+# Page Title: sonos4loxone
+RewriteRule   "^/x/6wnL"  "https://loxwiki.atlassian.net/wiki/x/4YkDOg" [R=301,L]
+
+# Page Title: whats new in v1.4.3
+RewriteRule   "^/x/TwScAw"  "https://loxwiki.atlassian.net/wiki/x/RYTUP" [R=301,L]
+
+# Page Title: whats new in v2.0.1
+RewriteRule   "^/x/9YXPAw"  "https://loxwiki.atlassian.net/wiki/x/6wUIPQ" [R=301,L]
+
+# Page Title: loxberry::log::notify
+RewriteRule   "^/x/UYC3AQ"  "https://loxwiki.atlassian.net/wiki/x/RwDwOg" [R=301,L]
+
+# Page Title: loxberry::storage::get_netshares
+RewriteRule   "^/x/SYO3AQ"  "https://loxwiki.atlassian.net/wiki/x/PwPwOg" [R=301,L]
+
+# Page Title: systemweite pfade in environmentvariablen
+RewriteRule   "^/x/qgFmAQ"  "https://loxwiki.atlassian.net/wiki/x/oIGeOg" [R=301,L]
+
+# Page Title: widget help
+RewriteRule   "^/x/84YKAw"  "https://loxwiki.atlassian.net/wiki/x/6QZDP" [R=301,L]
+
+# Page Title: miniserver-dropdown im webui
+RewriteRule   "^/x/pgA_Ag"  "https://loxwiki.atlassian.net/wiki/x/nIB2Ow" [R=301,L]
+
+# Page Title: php-modul loxberry_system.php
+RewriteRule   "^/x/BQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/_4GeOg" [R=301,L]
+
+# Page Title: plugin für den loxberry entwickeln (alpha-version 0.3.x)
+RewriteRule   "^/x/-QJmAQ"  "https://loxwiki.atlassian.net/wiki/x/84KeOg" [R=301,L]
+
+# Page Title: generic support request answer
+RewriteRule   "^/x/foWdAQ"  "https://loxwiki.atlassian.net/wiki/x/dAXWOg" [R=301,L]
+
+# Page Title: rgb bulb ohne farbtemperatur
+RewriteRule   "^/x/OYHlB"  "https://loxwiki.atlassian.net/wiki/x/LwEePg" [R=301,L]
+
+# Page Title: widget plugin management
+RewriteRule   "^/x/UIgKAw"  "https://loxwiki.atlassian.net/wiki/x/RghDP" [R=301,L]
+
+# Page Title: mshttp_send_mem
+RewriteRule   "^/x/FoFYAg"  "https://loxwiki.atlassian.net/wiki/x/DAGROw" [R=301,L]
+
+# Page Title: parse json file in bash
+RewriteRule   "^/x/joCxAg"  "https://loxwiki.atlassian.net/wiki/x/hADqOw" [R=301,L]
+
+# Page Title: unifi controller installieren (manuell)
+RewriteRule   "^/x/cgnL"  "https://loxwiki.atlassian.net/wiki/x/aIkDOg" [R=301,L]
+
+# Page Title: php module loxberry_web.php
+RewriteRule   "^/x/xAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/uoOzOg" [R=301,L]
+
+# Page Title: healthcheck
+RewriteRule   "^/x/FgA4Aw"  "https://loxwiki.atlassian.net/wiki/x/DIBwP" [R=301,L]
+
+# Page Title: i/o
+RewriteRule   "^/x/hoJYAg"  "https://loxwiki.atlassian.net/wiki/x/fAKROw" [R=301,L]
+
+# Page Title: hardware-architektur bei der plugininstallation abfragen
+RewriteRule   "^/x/iAJmAQ"  "https://loxwiki.atlassian.net/wiki/x/foKeOg" [R=301,L]
+
+# Page Title: synology virtualisation station
+RewriteRule   "^/x/9AA_Ag"  "https://loxwiki.atlassian.net/wiki/x/6oB2Ow" [R=301,L]
+
+# Page Title: loxberry jsonrpc
+RewriteRule   "^/x/woFdAw"  "https://loxwiki.atlassian.net/wiki/x/uAGWP" [R=301,L]
+
+# Page Title: stats4lox mqtt collector
+RewriteRule   "^/x/rACJBg"  "" [R=301,L]
+
+# Page Title: squeezelite faq
+RewriteRule   "^/x/J4C4"  "https://loxwiki.atlassian.net/wiki/x/HQDxOQ" [R=301,L]
+
+# Page Title: shelly button1
+RewriteRule   "^/x/TAFABQ"  "https://loxwiki.atlassian.net/wiki/x/QoF4Pg" [R=301,L]
+
+# Page Title: 0. voraussetzungen
+RewriteRule   "^/x/MIZWBQ"  "https://loxwiki.atlassian.net/wiki/x/JgaPPg" [R=301,L]
+
+# Page Title: installation of loxberry (english)
+RewriteRule   "^/x/2ISdAQ"  "https://loxwiki.atlassian.net/wiki/x/zgTWOg" [R=301,L]
+
+# Page Title: awattar
+RewriteRule   "^/x/woDPAw"  "https://loxwiki.atlassian.net/wiki/x/uAAIPQ" [R=301,L]
+
+# Page Title: samba-share
+RewriteRule   "^/x/aA7L"  "https://loxwiki.atlassian.net/wiki/x/Xo4DOg" [R=301,L]
+
+# Page Title: amazon echo / ha-bridge
+RewriteRule   "^/x/c4D-/"  "https://loxwiki.atlassian.net/wiki/x/aQA4Og" [R=301,L]
+
+# Page Title: eigenes image erstellen (loxberry v1.x)
+RewriteRule   "^/x/VoU_AQ"  "https://loxwiki.atlassian.net/wiki/x/TAV3Og" [R=301,L]
+
+# Page Title: manuelles update
+RewriteRule   "^/x/hopWBQ"  "https://loxwiki.atlassian.net/wiki/x/fAqPPg" [R=301,L]
+
+# Page Title: perl-modul loxberry::storage
+RewriteRule   "^/x/QoO3AQ"  "https://loxwiki.atlassian.net/wiki/x/OAPwOg" [R=301,L]
+
+# Page Title: lbsystem::reboot_required
+RewriteRule   "^/x/kwd7AQ"  "https://loxwiki.atlassian.net/wiki/x/iYezOg" [R=301,L]
+
+# Page Title: check if usb devices were automatically mounted
+RewriteRule   "^/x/9YO3AQ"  "https://loxwiki.atlassian.net/wiki/x/6wPwOg" [R=301,L]
+
+# Page Title: modul loxberry-system
+RewriteRule   "^/x/vAzL"  "https://loxwiki.atlassian.net/wiki/x/sowDOg" [R=301,L]
+
+# Page Title: wifi scanner (english)
+RewriteRule   "^/x/bIG3AQ"  "https://loxwiki.atlassian.net/wiki/x/YgHwOg" [R=301,L]
+
+# Page Title: mqtt gateway - http- und udp-interface
+RewriteRule   "^/x/pYZYAg"  "https://loxwiki.atlassian.net/wiki/x/mwaROw" [R=301,L]
+
+# Page Title: loxberry und ram-disk
+RewriteRule   "^/x/QINYAg"  "https://loxwiki.atlassian.net/wiki/x/NgOROw" [R=301,L]
+
+# Page Title: konfiguration
+RewriteRule   "^/x/s4CO"  "https://loxwiki.atlassian.net/wiki/x/qQDHOQ" [R=301,L]
+
+# Page Title: widget translate
+RewriteRule   "^/x/uogKAw"  "https://loxwiki.atlassian.net/wiki/x/sAhDP" [R=301,L]
+
+# Page Title: bluetooth-tags für ble-scanner
+RewriteRule   "^/x/tAbL"  "https://loxwiki.atlassian.net/wiki/x/qoYDOg" [R=301,L]
+
+# Page Title: music server interface
+RewriteRule   "^/x/w4AxB"  "https://loxwiki.atlassian.net/wiki/x/uQBqPQ" [R=301,L]
+
+# Page Title: konfigurationsdatei (awattar plugin)
+RewriteRule   "^/x/3oDPAw"  "https://loxwiki.atlassian.net/wiki/x/1AAIPQ" [R=301,L]
+
+# Page Title: die versionen des loxberry
+RewriteRule   "^/x/YoOO"  "https://loxwiki.atlassian.net/wiki/x/WAPHOQ" [R=301,L]
+
+# Page Title: installation als virtuelle maschine (vm)
+RewriteRule   "^/x/VQjL"  "https://loxwiki.atlassian.net/wiki/x/S4gDOg" [R=301,L]
+
+# Page Title: loxberry::storage::get_usbstorage
+RewriteRule   "^/x/UoO3AQ"  "https://loxwiki.atlassian.net/wiki/x/SAPwOg" [R=301,L]
+
+# Page Title: shellysensor
+RewriteRule   "^/x/N4LeAg"  "https://loxwiki.atlassian.net/wiki/x/LQIXP" [R=301,L]
+
+# Page Title: infnodgra
+RewriteRule   "^/x/Q4EKAw"  "https://loxwiki.atlassian.net/wiki/x/OQFDP" [R=301,L]
+
+# Page Title: magic home gateway
+RewriteRule   "^/x/WIOxAg"  "https://loxwiki.atlassian.net/wiki/x/TgPqOw" [R=301,L]
+
+# Page Title: lblog::newlog (logging constructor)
+RewriteRule   "^/x/PgLgAQ"  "https://loxwiki.atlassian.net/wiki/x/NIIYOw" [R=301,L]
+
+# Page Title: installation für andere plattformen und vms
+RewriteRule   "^/x/VQjL"  "https://loxwiki.atlassian.net/wiki/x/S4gDOg" [R=301,L]
+
+# Page Title: alsa tools
+RewriteRule   "^/x/tgDL"  "https://loxwiki.atlassian.net/wiki/x/rIADOg" [R=301,L]
+
+# Page Title: perl-klasse loxone::import
+RewriteRule   "^/x/FoRWBQ"  "https://loxwiki.atlassian.net/wiki/x/DASPPg" [R=301,L]
+
+# Page Title: awattar plugin
+RewriteRule   "^/x/woDPAw"  "https://loxwiki.atlassian.net/wiki/x/uAAIPQ" [R=301,L]
+
+# Page Title: advanced developers
+RewriteRule   "^/x/wIFdAw"  "https://loxwiki.atlassian.net/wiki/x/tgGWP" [R=301,L]
+
+# Page Title: waze routing
+RewriteRule   "^/x/I4GzB"  "https://loxwiki.atlassian.net/wiki/x/GQHsPQ" [R=301,L]
+
+# Page Title: perl class loxberry::json
+RewriteRule   "^/x/A4CkAg"  "https://loxwiki.atlassian.net/wiki/x/_f-cOw" [R=301,L]
+
+# Page Title: geräte
+RewriteRule   "^/x/uYbeAg"  "https://loxwiki.atlassian.net/wiki/x/rwYXP" [R=301,L]
+
+# Page Title: shellyswitch2 or ??
+RewriteRule   "^/x/KoLeAg"  "https://loxwiki.atlassian.net/wiki/x/IAIXP" [R=301,L]
+
+# Page Title: shellyswitch
+RewriteRule   "^/x/KILeAg"  "https://loxwiki.atlassian.net/wiki/x/HgIXP" [R=301,L]
+
+# Page Title: mqtt_connectiondetails
+RewriteRule   "^/x/sAKCAw"  "https://loxwiki.atlassian.net/wiki/x/poK6P" [R=301,L]
+
+# Page Title: loxberry aus der ferne ausschalten oder neu starten
+RewriteRule   "^/x/QwA_Ag"  "https://loxwiki.atlassian.net/wiki/x/OYB2Ow" [R=301,L]
+
+# Page Title: loxberry update fehler ("try 5: checking file size of download...")
+RewriteRule   "^/x/7oBYAg"  "https://loxwiki.atlassian.net/wiki/x/5ACROw" [R=301,L]
+
+# Page Title: sonnenstands-funktionen
+RewriteRule   "^/x/FwAEB"  "https://loxwiki.atlassian.net/wiki/x/DYA8PQ" [R=301,L]
+
+# Page Title: udp transformer - moving_minmaxavg
+RewriteRule   "^/x/ToFWBQ"  "https://loxwiki.atlassian.net/wiki/x/RAGPPg" [R=301,L]
+
+# Page Title: downloadserver / spiegel-sites
+RewriteRule   "^/x/YQR7AQ"  "https://loxwiki.atlassian.net/wiki/x/V4SzOg" [R=301,L]
+
+# Page Title: broadlink_thermostat2lox
+RewriteRule   "^/x/agcEB"  "https://loxwiki.atlassian.net/wiki/x/YIc8PQ" [R=301,L]
+
+# Page Title: globals.pm
+RewriteRule   "^/x/bohWBQ"  "https://loxwiki.atlassian.net/wiki/x/ZAiPPg" [R=301,L]
+
+# Page Title: per hmdi angeschlossenes gerät steuern (hdmi-cec)
+RewriteRule   "^/x/OgFmAQ"  "https://loxwiki.atlassian.net/wiki/x/MIGeOg" [R=301,L]
+
+# Page Title: icon-watchdog
+RewriteRule   "^/x/5ohWBQ"  "https://loxwiki.atlassian.net/wiki/x/3AiPPg" [R=301,L]
+
+# Page Title: lbsystem::epoch2lox
+RewriteRule   "^/x/rAA4Aw"  "https://loxwiki.atlassian.net/wiki/x/ooBwP" [R=301,L]
+
+# Page Title: tp-link hs100 / hs110 steuern
+RewriteRule   "^/x/RQB7AQ"  "https://loxwiki.atlassian.net/wiki/x/O4CzOg" [R=301,L]
+
+# Page Title: loxberry::system::get_plugins
+RewriteRule   "^/x/HQJ7AQ"  "https://loxwiki.atlassian.net/wiki/x/E4KzOg" [R=301,L]
+
+# Page Title: mqtt gateway - schritt für schritt mqtt -> loxone
+RewriteRule   "^/x/aYZYAg"  "https://loxwiki.atlassian.net/wiki/x/XwaROw" [R=301,L]
+
+# Page Title: funktion loxberry::system::get_binaries()
+RewriteRule   "^/x/rQ7L"  "https://loxwiki.atlassian.net/wiki/x/o44DOg" [R=301,L]
+
+# Page Title: whats new in v1.4.1
+RewriteRule   "^/x/BgDPAg"  "https://loxwiki.atlassian.net/wiki/x/-H8HP" [R=301,L]
+
+# Page Title: seiten index
+RewriteRule   "^/x/AoGO"  "https://loxwiki.atlassian.net/wiki/x/_ADHOQ" [R=301,L]
+
+# Page Title: mqtt - schritt für schritt: mqtt -> loxone
+RewriteRule   "^/x/aYZYAg"  "https://loxwiki.atlassian.net/wiki/x/XwaROw" [R=301,L]
+
+# Page Title: mirobo2lox-ng
+RewriteRule   "^/x/GoBYAg"  "https://loxwiki.atlassian.net/wiki/x/EACROw" [R=301,L]
+
+# Page Title: php loxberry system modules
+RewriteRule   "^/x/_wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/8YGeOg" [R=301,L]
+
+# Page Title: mqtt verbindung testen
+RewriteRule   "^/x/QYXeAg"  "https://loxwiki.atlassian.net/wiki/x/NwUXP" [R=301,L]
+
+# Page Title: loxberry::system::lox2epoch
+RewriteRule   "^/x/IAA4Aw"  "https://loxwiki.atlassian.net/wiki/x/FoBwP" [R=301,L]
+
+# Page Title: gpio
+RewriteRule   "^/x/hoJYAg"  "https://loxwiki.atlassian.net/wiki/x/fAKROw" [R=301,L]
+
+# Page Title: widget donate :-)
+RewriteRule   "^/x/NYkKAw"  "https://loxwiki.atlassian.net/wiki/x/KwlDP" [R=301,L]
+
+# Page Title: einbau usb
+RewriteRule   "^/x/PwF7AQ"  "https://loxwiki.atlassian.net/wiki/x/NYGzOg" [R=301,L]
+
+# Page Title: loxberry (english)
+RewriteRule   "^/x/cYSdAQ"  "https://loxwiki.atlassian.net/wiki/x/ZwTWOg" [R=301,L]
+
+# Page Title: gesammelte toto's
+RewriteRule   "^/x/CYGO"  "https://loxwiki.atlassian.net/wiki/x/-wDHOQ" [R=301,L]
+
+# Page Title: lbsystem::is_disabled($text)
+RewriteRule   "^/x/tgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/rIOzOg" [R=301,L]
+
+# Page Title: tcp2udp - linksammlung tcp-schnittstellen
+RewriteRule   "^/x/JoYKAw"  "https://loxwiki.atlassian.net/wiki/x/HAZDP" [R=301,L]
+
+# Page Title: mqtt_get
+RewriteRule   "^/x/JohWBQ"  "https://loxwiki.atlassian.net/wiki/x/HAiPPg" [R=301,L]
+
+# Page Title: loxberry::io::mshttp_get
+RewriteRule   "^/x/UwE_Ag"  "https://loxwiki.atlassian.net/wiki/x/SYF2Ow" [R=301,L]
+
+# Page Title: mqtt-gateway - bekannte mqtt-geräte und subscription-topics
+RewriteRule   "^/x/c4HeAg"  "https://loxwiki.atlassian.net/wiki/x/aQEXP" [R=301,L]
+
+# Page Title: hifiberry soundmodule nutzen
+RewriteRule   "^/x/KIJMB"  "https://loxwiki.atlassian.net/wiki/x/HgKFPQ" [R=301,L]
+
+# Page Title: lbsystem::pluginversion
+RewriteRule   "^/x/wAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/toOzOg" [R=301,L]
+
+# Page Title: benachrichtigung wenn auto nicht verschlossen
+RewriteRule   "^/x/moLlB"  "https://loxwiki.atlassian.net/wiki/x/kAIePg" [R=301,L]
+
+# Page Title: loxberry::system::vers_tag
+RewriteRule   "^/x/hIOdAQ"  "https://loxwiki.atlassian.net/wiki/x/egPWOg" [R=301,L]
+
+# Page Title: v-zug  - auge
+RewriteRule   "^/x/5AA_Ag"  "https://loxwiki.atlassian.net/wiki/x/2oB2Ow" [R=301,L]
+
+# Page Title: generische supportanfrage-antwort
+RewriteRule   "^/x/DISdAQ"  "https://loxwiki.atlassian.net/wiki/x/AgTWOg" [R=301,L]
+
+# Page Title: php loxberry sdk documentation
+RewriteRule   "^/x/_wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/8YGeOg" [R=301,L]
+
+# Page Title: notifications with bash
+RewriteRule   "^/x/u4C3AQ"  "https://loxwiki.atlassian.net/wiki/x/sQDwOg" [R=301,L]
+
+# Page Title: 1-wire-ng
+RewriteRule   "^/x/3gmcAw"  "https://loxwiki.atlassian.net/wiki/x/1InUP" [R=301,L]
+
+# Page Title: msudp_send
+RewriteRule   "^/x/FIFYAg"  "https://loxwiki.atlassian.net/wiki/x/CgGROw" [R=301,L]
+
+# Page Title: kopie von hmip-spi
+RewriteRule   "^/x/j4AKAw"  "https://loxwiki.atlassian.net/wiki/x/hQBDP" [R=301,L]
+
+# Page Title: changelog v1.0 (english)
+RewriteRule   "^/x/8oOdAQ"  "https://loxwiki.atlassian.net/wiki/x/6APWOg" [R=301,L]
+
+# Page Title: pi-hole adblocker installieren
+RewriteRule   "^/x/XgAWAQ"  "https://loxwiki.atlassian.net/wiki/x/VIBOOg" [R=301,L]
+
+# Page Title: funktion loxberry::system::get_miniservers()
+RewriteRule   "^/x/xAzL"  "https://loxwiki.atlassian.net/wiki/x/uowDOg" [R=301,L]
+
+# Page Title: widget netshares
+RewriteRule   "^/x/6YgKAw"  "https://loxwiki.atlassian.net/wiki/x/3whDP" [R=301,L]
+
+# Page Title: css and style for your plugin
+RewriteRule   "^/x/DwR7AQ"  "https://loxwiki.atlassian.net/wiki/x/BYSzOg" [R=301,L]
+
+# Page Title: influxdb administration
+RewriteRule   "^/x/BINWBQ"  "https://loxwiki.atlassian.net/wiki/x/_gKPPg" [R=301,L]
+
+# Page Title: monitor plugin installations, updates, uninstalls
+RewriteRule   "^/x/dgKCAw"  "https://loxwiki.atlassian.net/wiki/x/bIK6P" [R=301,L]
+
+# Page Title: modbus gateway (english)
+RewriteRule   "^/x/ZgDgAQ"  "https://loxwiki.atlassian.net/wiki/x/XIAYOw" [R=301,L]
+
+# Page Title: w4l fehlersuche / faq
+RewriteRule   "^/x/c4IxB"  "https://loxwiki.atlassian.net/wiki/x/aQJqPQ" [R=301,L]
+
+# Page Title: alexa2lox - zwei-schritt-verifizierung einrichten
+RewriteRule   "^/x/XAHqAw"  "https://loxwiki.atlassian.net/wiki/x/UoEiPQ" [R=301,L]
+
+# Page Title: formular-validierung mit loxberry
+RewriteRule   "^/x/agF7AQ"  "https://loxwiki.atlassian.net/wiki/x/YIGzOg" [R=301,L]
+
+# Page Title: debugging notifications
+RewriteRule   "^/x/7oC3AQ"  "https://loxwiki.atlassian.net/wiki/x/5ADwOg" [R=301,L]
+
+# Page Title: shellybulb
+RewriteRule   "^/x/LoLeAg"  "https://loxwiki.atlassian.net/wiki/x/JAIXP" [R=301,L]
+
+# Page Title: udp senden per bash
+RewriteRule   "^/x/CYOdAQ"  "https://loxwiki.atlassian.net/wiki/x/-wLWOg" [R=301,L]
+
+# Page Title: plugins
+RewriteRule   "^/x/t4CO"  "https://loxwiki.atlassian.net/wiki/x/rQDHOQ" [R=301,L]
+
+# Page Title: english faq and knowledge base
+RewriteRule   "^/x/_YO3AQ"  "https://loxwiki.atlassian.net/wiki/x/7wPwOg" [R=301,L]
+
+# Page Title: alexa2lox 4.0 beta
+RewriteRule   "^/x/FAHqAw"  "https://loxwiki.atlassian.net/wiki/x/CoEiPQ" [R=301,L]
+
+# Page Title: durchsagen (t2s)
+RewriteRule   "^/x/OIbeAg"  "https://loxwiki.atlassian.net/wiki/x/LgYXP" [R=301,L]
+
+# Page Title: worx landroid mährobotor
+RewriteRule   "^/x/XYhWBQ"  "https://loxwiki.atlassian.net/wiki/x/UwiPPg" [R=301,L]
+
+# Page Title: funktion loxberry-system-get_ftpport()
+RewriteRule   "^/x/vQ7L"  "https://loxwiki.atlassian.net/wiki/x/s44DOg" [R=301,L]
+
+# Page Title: udp transformers
+RewriteRule   "^/x/mQBABQ"  "https://loxwiki.atlassian.net/wiki/x/j4B4Pg" [R=301,L]
+
+# Page Title: loxberry::web::foot
+RewriteRule   "^/x/ygB7AQ"  "https://loxwiki.atlassian.net/wiki/x/wICzOg" [R=301,L]
+
+# Page Title: loxberry::log::get_notifications
+RewriteRule   "^/x/moC3AQ"  "https://loxwiki.atlassian.net/wiki/x/kADwOg" [R=301,L]
+
+# Page Title: lidl bewässerungscomputer
+RewriteRule   "^/x/kIpWBQ"  "https://loxwiki.atlassian.net/wiki/x/hgqPPg" [R=301,L]
+
+# Page Title: vm-image erstellen faq
+RewriteRule   "^/x/poC3AQ"  "https://loxwiki.atlassian.net/wiki/x/nADwOg" [R=301,L]
+
+# Page Title: nextcloud
+RewriteRule   "^/x/FQmcAw"  "https://loxwiki.atlassian.net/wiki/x/C4nUP" [R=301,L]
+
+# Page Title: alpha-/betatest
+RewriteRule   "^/x/84RWBQ"  "https://loxwiki.atlassian.net/wiki/x/6QSPPg" [R=301,L]
+
+# Page Title: loxberry::system::get_miniservers()
+RewriteRule   "^/x/xAzL"  "https://loxwiki.atlassian.net/wiki/x/uowDOg" [R=301,L]
+
+# Page Title: shelly2.5
+RewriteRule   "^/x/KoLeAg"  "https://loxwiki.atlassian.net/wiki/x/IAIXP" [R=301,L]
+
+# Page Title: nützliche funktionen in php
+RewriteRule   "^/x/PQAEB"  "https://loxwiki.atlassian.net/wiki/x/M4A8PQ" [R=301,L]
+
+# Page Title: perl - develop plugins with perl
+RewriteRule   "^/x/2wN7AQ"  "https://loxwiki.atlassian.net/wiki/x/0YOzOg" [R=301,L]
+
+# Page Title: integrate your plugin to loxberry's healthcheck
+RewriteRule   "^/x/lwIEB"  "https://loxwiki.atlassian.net/wiki/x/jYI8PQ" [R=301,L]
+
+# Page Title: notification tips and tricks
+RewriteRule   "^/x/f4G3AQ"  "https://loxwiki.atlassian.net/wiki/x/dQHwOg" [R=301,L]
+
+# Page Title: mshttp_get
+RewriteRule   "^/x/H4FYAg"  "https://loxwiki.atlassian.net/wiki/x/FQGROw" [R=301,L]
+
+# Page Title: loxberry update (english)
+RewriteRule   "^/x/4oBYAg"  "https://loxwiki.atlassian.net/wiki/x/2ACROw" [R=301,L]
+
+# Page Title: modul stats4lox::json
+RewriteRule   "^/x/YQI_Ag"  "https://loxwiki.atlassian.net/wiki/x/V4J2Ow" [R=301,L]
+
+# Page Title: lbsystem::currtime
+RewriteRule   "^/x/9QR7AQ"  "https://loxwiki.atlassian.net/wiki/x/64SzOg" [R=301,L]
+
+# Page Title: loxberry version 1.0 - beyond the limits (english)
+RewriteRule   "^/x/74OdAQ"  "https://loxwiki.atlassian.net/wiki/x/5QPWOg" [R=301,L]
+
+# Page Title: fritz.lox
+RewriteRule   "^/x/swTL"  "https://loxwiki.atlassian.net/wiki/x/qYQDOg" [R=301,L]
+
+# Page Title: nibe gateway
+RewriteRule   "^/x/FgE_Ag"  "https://loxwiki.atlassian.net/wiki/x/DIF2Ow" [R=301,L]
+
+# Page Title: datenmodell databases.json
+RewriteRule   "^/x/bwI_Ag"  "https://loxwiki.atlassian.net/wiki/x/ZYJ2Ow" [R=301,L]
+
+# Page Title: übersetzungs-tool für windows
+RewriteRule   "^/x/EAJmAQ"  "https://loxwiki.atlassian.net/wiki/x/BoKeOg" [R=301,L]
+
+# Page Title: wie findet man das eigene installationsverzeichnis heraus? (loxberry v1.x)
+RewriteRule   "^/x/rgFmAQ"  "https://loxwiki.atlassian.net/wiki/x/pIGeOg" [R=301,L]
+
+# Page Title: securepin forgotten
+RewriteRule   "^/x/LYoKAw"  "https://loxwiki.atlassian.net/wiki/x/IwpDP" [R=301,L]
+
+# Page Title: label "article_maintenance_requested" (english)
+RewriteRule   "^/x/aoSxAg"  "https://loxwiki.atlassian.net/wiki/x/YATqOw" [R=301,L]
+
+# Page Title: bad interpreter beim ausführen von programmen/scripts
+RewriteRule   "^/x/kYOdAQ"  "https://loxwiki.atlassian.net/wiki/x/hwPWOg" [R=301,L]
+
+# Page Title: einbau möglichkeiten
+RewriteRule   "^/x/PwF7AQ"  "https://loxwiki.atlassian.net/wiki/x/NYGzOg" [R=301,L]
+
+# Page Title: alexa2lox 4.0
+RewriteRule   "^/x/FAHqAw"  "https://loxwiki.atlassian.net/wiki/x/CoEiPQ" [R=301,L]
+
+# Page Title: clone_sd.pl - sd-karte klonen
+RewriteRule   "^/x/jICzB"  "https://loxwiki.atlassian.net/wiki/x/ggDsPQ" [R=301,L]
+
+# Page Title: mein loxberry - verwendungszähler
+RewriteRule   "^/x/rQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/o4KeOg" [R=301,L]
+
+# Page Title: (deprecated) formular-validierung mit loxberry
+RewriteRule   "^/x/agF7AQ"  "https://loxwiki.atlassian.net/wiki/x/YIGzOg" [R=301,L]
+
+# Page Title: squeezelite player
+RewriteRule   "^/x/_4Cm"  "https://loxwiki.atlassian.net/wiki/x/8QDfOQ" [R=301,L]
+
+# Page Title: spiegel-sites von download.loxberry.de
+RewriteRule   "^/x/YQR7AQ"  "https://loxwiki.atlassian.net/wiki/x/V4SzOg" [R=301,L]
+
+# Page Title: what's new in v1.0.4
+RewriteRule   "^/x/74K3AQ"  "https://loxwiki.atlassian.net/wiki/x/5QLwOg" [R=301,L]
+
+# Page Title: datenmodell stats4lox
+RewriteRule   "^/x/bwI_Ag"  "https://loxwiki.atlassian.net/wiki/x/ZYJ2Ow" [R=301,L]
+
+# Page Title: loxberry::system::epoch2lox
+RewriteRule   "^/x/HgA4Aw"  "https://loxwiki.atlassian.net/wiki/x/FIBwP" [R=301,L]
+
+# Page Title: homematic geräte anlernen
+RewriteRule   "^/x/D4exAg"  "https://loxwiki.atlassian.net/wiki/x/BQfqOw" [R=301,L]
+
+# Page Title: loxberry::web::mslist_select_html
+RewriteRule   "^/x/ywE_Ag"  "https://loxwiki.atlassian.net/wiki/x/wYF2Ow" [R=301,L]
+
+# Page Title: loxberry habridge
+RewriteRule   "^/x/M4G3AQ"  "https://loxwiki.atlassian.net/wiki/x/KQHwOg" [R=301,L]
+
+# Page Title: silvercrest bewegungssensor (lidl hg06335)
+RewriteRule   "^/x/BoAuBQ"  "https://loxwiki.atlassian.net/wiki/x/-P9mPg" [R=301,L]
+
+# Page Title: php functions to create your webpage with loxberry design
+RewriteRule   "^/x/yAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/voOzOg" [R=301,L]
+
+# Page Title: text2sip
+RewriteRule   "^/x/RQLL"  "https://loxwiki.atlassian.net/wiki/x/O4IDOg" [R=301,L]
+
+# Page Title: loxberry::web::lbheader
+RewriteRule   "^/x/zAB7AQ"  "https://loxwiki.atlassian.net/wiki/x/woCzOg" [R=301,L]
+
+# Page Title: ....
+RewriteRule   "^/x/KoLeAg"  "https://loxwiki.atlassian.net/wiki/x/IAIXP" [R=301,L]
+
+# Page Title: virtueller loxberry auf der hyper-v plattform betrieben
+RewriteRule   "^/x/VQjL"  "https://loxwiki.atlassian.net/wiki/x/S4gDOg" [R=301,L]
+
+# Page Title: organisatorisches
+RewriteRule   "^/x/-oCO"  "https://loxwiki.atlassian.net/wiki/x/9ADHOQ" [R=301,L]
+
+# Page Title: module comparison perl vs. php
+RewriteRule   "^/x/KQJ7AQ"  "https://loxwiki.atlassian.net/wiki/x/H4KzOg" [R=301,L]
+
+# Page Title: haftungsausschluss loxberry und plugins
+RewriteRule   "^/x/VQJ7AQ"  "https://loxwiki.atlassian.net/wiki/x/S4KzOg" [R=301,L]
+
+# Page Title: widget system time
+RewriteRule   "^/x/RYgKAw"  "https://loxwiki.atlassian.net/wiki/x/OwhDP" [R=301,L]
+
+# Page Title: foshkplugin
+RewriteRule   "^/x/MgmcAw"  "https://loxwiki.atlassian.net/wiki/x/KInUP" [R=301,L]
+
+# Page Title: any-plugin - infos und known issues
+RewriteRule   "^/x/DwFmAQ"  "https://loxwiki.atlassian.net/wiki/x/BYGeOg" [R=301,L]
+
+# Page Title: automatische und manuelle plugin-updates
+RewriteRule   "^/x/cISxAg"  "https://loxwiki.atlassian.net/wiki/x/ZgTqOw" [R=301,L]
+
+# Page Title: covid-zahlen bezirk (österreich)
+RewriteRule   "^/x/LIKzB"  "https://loxwiki.atlassian.net/wiki/x/IgLsPQ" [R=301,L]
+
+# Page Title: led farbe mit farbtemperatur
+RewriteRule   "^/x/DILlB"  "https://loxwiki.atlassian.net/wiki/x/AgIePg" [R=301,L]
+
+# Page Title: für entwickler
+RewriteRule   "^/x/-4RYAg"  "https://loxwiki.atlassian.net/wiki/x/9QSROw" [R=301,L]
+
+# Page Title: navigation bar (php)
+RewriteRule   "^/x/s4C3AQ"  "https://loxwiki.atlassian.net/wiki/x/qQDwOg" [R=301,L]
+
+# Page Title: donate? :-)
+RewriteRule   "^/x/tgDqAw"  "https://loxwiki.atlassian.net/wiki/x/rIAiPQ" [R=301,L]
+
+# Page Title: loxberry::system::get_ftpport
+RewriteRule   "^/x/vQ7L"  "https://loxwiki.atlassian.net/wiki/x/s44DOg" [R=301,L]
+
+# Page Title: loxberry xl - beispiele
+RewriteRule   "^/x/cwAEB"  "https://loxwiki.atlassian.net/wiki/x/aYA8PQ" [R=301,L]
+
+# Page Title: language / template check tool
+RewriteRule   "^/x/OYS3AQ"  "https://loxwiki.atlassian.net/wiki/x/LwTwOg" [R=301,L]
+
+# Page Title: integrierter logviewer (logfile im browser anzeigen)
+RewriteRule   "^/x/-QBmAQ"  "https://loxwiki.atlassian.net/wiki/x/84CeOg" [R=301,L]
+
+# Page Title: ikea rgb bulb
+RewriteRule   "^/x/OYHlB"  "https://loxwiki.atlassian.net/wiki/x/LwEePg" [R=301,L]
+
+# Page Title: (obsolete) formular-validierung mit loxberry
+RewriteRule   "^/x/agF7AQ"  "https://loxwiki.atlassian.net/wiki/x/YIGzOg" [R=301,L]
+
+# Page Title: system time
+RewriteRule   "^/x/RYgKAw"  "https://loxwiki.atlassian.net/wiki/x/OwhDP" [R=301,L]
+
+# Page Title: what's new in v1.2
+RewriteRule   "^/x/BoS3AQ"  "https://loxwiki.atlassian.net/wiki/x/-APwOg" [R=301,L]
+
+# Page Title: loxberry::log::notify_ext
+RewriteRule   "^/x/VIC3AQ"  "https://loxwiki.atlassian.net/wiki/x/SgDwOg" [R=301,L]
+
+# Page Title: kopie von chromecast 4 lox
+RewriteRule   "^/x/wYcKAw"  "https://loxwiki.atlassian.net/wiki/x/twdDP" [R=301,L]
+
+# Page Title: lblog::get_notifications
+RewriteRule   "^/x/noC3AQ"  "https://loxwiki.atlassian.net/wiki/x/lADwOg" [R=301,L]
+
+# Page Title: fronius datenmanager api abfragen und per mqtt ausgeben
+RewriteRule   "^/x/cINdAw"  "https://loxwiki.atlassian.net/wiki/x/ZgOWP" [R=301,L]
+
+# Page Title: udp transformer - shelly_rgb&w (shipped)
+RewriteRule   "^/x/_QBABQ"  "https://loxwiki.atlassian.net/wiki/x/74B4Pg" [R=301,L]
+
+# Page Title: lbweb::loglist_button_html
+RewriteRule   "^/x/GALgAQ"  "https://loxwiki.atlassian.net/wiki/x/DoIYOw" [R=301,L]
+
+# Page Title: loxberry::system::get_ftpport()
+RewriteRule   "^/x/vQ7L"  "https://loxwiki.atlassian.net/wiki/x/s44DOg" [R=301,L]
+
+# Page Title: php loxberry api documentation
+RewriteRule   "^/x/_wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/8YGeOg" [R=301,L]
+
+# Page Title: loxone ha-bridge importer anleitung
+RewriteRule   "^/x/fYO3AQ"  "https://loxwiki.atlassian.net/wiki/x/cwPwOg" [R=301,L]
+
+# Page Title: camstream4lox
+RewriteRule   "^/x/mQE_Ag"  "https://loxwiki.atlassian.net/wiki/x/j4F2Ow" [R=301,L]
+
+# Page Title: lbsystem::lox2epoch
+RewriteRule   "^/x/rgA4Aw"  "https://loxwiki.atlassian.net/wiki/x/pIBwP" [R=301,L]
+
+# Page Title: plugins_state.json - monitor plugin installations, updates, uninstalls
+RewriteRule   "^/x/dgKCAw"  "https://loxwiki.atlassian.net/wiki/x/bIK6P" [R=301,L]
+
+# Page Title: widget loxberry services
+RewriteRule   "^/x/bogKAw"  "https://loxwiki.atlassian.net/wiki/x/ZAhDP" [R=301,L]
+
+# Page Title: kommunikation zwischen loxberry und miniserver überwachen
+RewriteRule   "^/x/_4NYAg"  "https://loxwiki.atlassian.net/wiki/x/8QOROw" [R=301,L]
+
+# Page Title: interface
+RewriteRule   "^/x/-4RYAg"  "https://loxwiki.atlassian.net/wiki/x/9QSROw" [R=301,L]
+
+# Page Title: perl modul loxberry::loxonetemplatebuilder
+RewriteRule   "^/x/aoVdAw"  "https://loxwiki.atlassian.net/wiki/x/YAWWP" [R=301,L]
+
+# Page Title: loxberry::io::mqtt_connect
+RewriteRule   "^/x/EIhWBQ"  "https://loxwiki.atlassian.net/wiki/x/BgiPPg" [R=301,L]
+
+# Page Title: unraid
+RewriteRule   "^/x/cYDlB"  "https://loxwiki.atlassian.net/wiki/x/ZwAePg" [R=301,L]
+
+# Page Title: loxberry::web::loglevel_select_html
+RewriteRule   "^/x/OoJYAg"  "https://loxwiki.atlassian.net/wiki/x/MAKROw" [R=301,L]
+
+# Page Title: udp transformer - php_execute (custom)
+RewriteRule   "^/x/8QBABQ"  "https://loxwiki.atlassian.net/wiki/x/54B4Pg" [R=301,L]
+
+# Page Title: loxberry::system::get_miniserver_by_name
+RewriteRule   "^/x/mgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/kICzOg" [R=301,L]
+
+# Page Title: modifikationen / hacks
+RewriteRule   "^/x/tYCO"  "https://loxwiki.atlassian.net/wiki/x/qwDHOQ" [R=301,L]
+
+# Page Title: loxberry::storage::get_netservers
+RewriteRule   "^/x/ToO3AQ"  "https://loxwiki.atlassian.net/wiki/x/RAPwOg" [R=301,L]
+
+# Page Title: gesammelte todo's
+RewriteRule   "^/x/CYGO"  "https://loxwiki.atlassian.net/wiki/x/-wDHOQ" [R=301,L]
+
+# Page Title: alexa2lox
+RewriteRule   "^/x/FAHqAw"  "https://loxwiki.atlassian.net/wiki/x/CoEiPQ" [R=301,L]
+
+# Page Title: widget remote support
+RewriteRule   "^/x/GokKAw"  "https://loxwiki.atlassian.net/wiki/x/EAlDP" [R=301,L]
+
+# Page Title: 1. installation
+RewriteRule   "^/x/94RWBQ"  "https://loxwiki.atlassian.net/wiki/x/7QSPPg" [R=301,L]
+
+# Page Title: shellyplug
+RewriteRule   "^/x/NILeAg"  "https://loxwiki.atlassian.net/wiki/x/KgIXP" [R=301,L]
+
+# Page Title: vmware vsphere oder vmware player
+RewriteRule   "^/x/74SdAQ"  "https://loxwiki.atlassian.net/wiki/x/5QTWOg" [R=301,L]
+
+# Page Title: mqtt gateway - udp transformers
+RewriteRule   "^/x/mQBABQ"  "https://loxwiki.atlassian.net/wiki/x/j4B4Pg" [R=301,L]
+
+# Page Title: fehler 500 / error 500 im apache/error.log
+RewriteRule   "^/x/ag7L"  "https://loxwiki.atlassian.net/wiki/x/YI4DOg" [R=301,L]
+
+# Page Title: anleitungsartikel
+RewriteRule   "^/x/YIGO"  "https://loxwiki.atlassian.net/wiki/x/VgHHOQ" [R=301,L]
+
+# Page Title: raspberry pi backup
+RewriteRule   "^/x/-g7L"  "https://loxwiki.atlassian.net/wiki/x/9I4DOg" [R=301,L]
+
+# Page Title: clone_sd.pl - clone sd card
+RewriteRule   "^/x/k4CzB"  "https://loxwiki.atlassian.net/wiki/x/iQDsPQ" [R=301,L]
+
+# Page Title: ersteinrichtung
+RewriteRule   "^/x/FIKO"  "https://loxwiki.atlassian.net/wiki/x/CgLHOQ" [R=301,L]
+
+# Page Title: inhaltsverzeichnis
+RewriteRule   "^/x/BYGO"  "https://loxwiki.atlassian.net/wiki/x/_wDHOQ" [R=301,L]
+
+# Page Title: node.js
+RewriteRule   "^/x/mIFdAw"  "https://loxwiki.atlassian.net/wiki/x/jgGWP" [R=301,L]
+
+# Page Title: loxberry::system::bytes_humanreadable
+RewriteRule   "^/x/zQHgAQ"  "https://loxwiki.atlassian.net/wiki/x/w4EYOw" [R=301,L]
+
+# Page Title: automatisches ersetzen der plugin-verzeichnisse (replace)
+RewriteRule   "^/x/J4K3AQ"  "https://loxwiki.atlassian.net/wiki/x/HQLwOg" [R=301,L]
+
+# Page Title: gültigkeit von variablen in perl
+RewriteRule   "^/x/2w7L"  "https://loxwiki.atlassian.net/wiki/x/0Y4DOg" [R=301,L]
+
+# Page Title: loxberry::system::lbversion
+RewriteRule   "^/x/sAB7AQ"  "https://loxwiki.atlassian.net/wiki/x/poCzOg" [R=301,L]
+
+# Page Title: gigaset elements via plug mit loxone koppeln
+RewriteRule   "^/x/rITPAw"  "https://loxwiki.atlassian.net/wiki/x/ogQIPQ" [R=301,L]
+
+# Page Title: loxberry::io::mshttp_send
+RewriteRule   "^/x/RAE_Ag"  "https://loxwiki.atlassian.net/wiki/x/OoF2Ow" [R=301,L]
+
+# Page Title: my loxberry - statistic counter
+RewriteRule   "^/x/PIG3AQ"  "https://loxwiki.atlassian.net/wiki/x/MgHwOg" [R=301,L]
+
+# Page Title: perl template-system ab loxberry 0.3x
+RewriteRule   "^/x/qQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/n4KeOg" [R=301,L]
+
+# Page Title: widget usb storages
+RewriteRule   "^/x/AYkKAw"  "https://loxwiki.atlassian.net/wiki/x/9whDP" [R=301,L]
+
+# Page Title: 5. daten in grafana visualisieren
+RewriteRule   "^/x/f4ZWBQ"  "https://loxwiki.atlassian.net/wiki/x/dQaPPg" [R=301,L]
+
+# Page Title: securtepin forgotten
+RewriteRule   "^/x/LYoKAw"  "https://loxwiki.atlassian.net/wiki/x/IwpDP" [R=301,L]
+
+# Page Title: perl-modul net::mqtt::simple
+RewriteRule   "^/x/mgPPAg"  "https://loxwiki.atlassian.net/wiki/x/kIMHP" [R=301,L]
+
+# Page Title: serielle konsole verwenden
+RewriteRule   "^/x/G4OxAg"  "https://loxwiki.atlassian.net/wiki/x/EQPqOw" [R=301,L]
+
+# Page Title: grundlagen zur erstellung eines plugins
+RewriteRule   "^/x/NAA_Ag"  "https://loxwiki.atlassian.net/wiki/x/KoB2Ow" [R=301,L]
+
+# Page Title: loxberry logging in bash
+RewriteRule   "^/x/s4KdAQ"  "https://loxwiki.atlassian.net/wiki/x/qQLWOg" [R=301,L]
+
+# Page Title: udp transformer - shelly_rgb&w
+RewriteRule   "^/x/_QBABQ"  "https://loxwiki.atlassian.net/wiki/x/74B4Pg" [R=301,L]
+
+# Page Title: labcom / poollab
+RewriteRule   "^/x/94pWBQ"  "https://loxwiki.atlassian.net/wiki/x/7QqPPg" [R=301,L]
+
+# Page Title: tts-engine
+RewriteRule   "^/x/X4OdAQ"  "https://loxwiki.atlassian.net/wiki/x/VQPWOg" [R=301,L]
+
+# Page Title: shelly devices (mqtt)
+RewriteRule   "^/x/1oHeAg"  "https://loxwiki.atlassian.net/wiki/x/zAEXP" [R=301,L]
+
+# Page Title: grünbeck plugin
+RewriteRule   "^/x/0QE_Ag"  "https://loxwiki.atlassian.net/wiki/x/x4F2Ow" [R=301,L]
+
+# Page Title: dnsmasq
+RewriteRule   "^/x/DgHL"  "https://loxwiki.atlassian.net/wiki/x/BIEDOg" [R=301,L]
+
+# Page Title: shellyrgbw2
+RewriteRule   "^/x/MoLeAg"  "https://loxwiki.atlassian.net/wiki/x/KAIXP" [R=301,L]
+
+# Page Title: lbweb::logfile_button_html
+RewriteRule   "^/x/CwLgAQ"  "https://loxwiki.atlassian.net/wiki/x/AYIYOw" [R=301,L]
+
+# Page Title: ram disk voll - no space left on device
+RewriteRule   "^/x/uYIxB"  "https://loxwiki.atlassian.net/wiki/x/rwJqPQ" [R=301,L]
+
+# Page Title: homematic geräte am plugin anlernen
+RewriteRule   "^/x/D4exAg"  "https://loxwiki.atlassian.net/wiki/x/BQfqOw" [R=301,L]
+
+# Page Title: loxberry::system::read_file
+RewriteRule   "^/x/r4ZYAg"  "https://loxwiki.atlassian.net/wiki/x/pQaROw" [R=301,L]
+
+# Page Title: loxberry::system::lbhostname
+RewriteRule   "^/x/qwB7AQ"  "https://loxwiki.atlassian.net/wiki/x/oYCzOg" [R=301,L]
+
+# Page Title: navigation bar
+RewriteRule   "^/x/XgNmAQ"  "https://loxwiki.atlassian.net/wiki/x/VIOeOg" [R=301,L]
+
+# Page Title: stats.json
+RewriteRule   "^/x/qoFhBg"  "" [R=301,L]
+
+# Page Title: update von loxberry 0.2.x auf 1.0
+RewriteRule   "^/x/-YSdAQ"  "https://loxwiki.atlassian.net/wiki/x/8wTWOg" [R=301,L]
+
+# Page Title: loxberry::web::pagestart
+RewriteRule   "^/x/xgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/vICzOg" [R=301,L]
+
+# Page Title: perl-modul loxberry::system
+RewriteRule   "^/x/vAzL"  "https://loxwiki.atlassian.net/wiki/x/sowDOg" [R=301,L]
+
+# Page Title: häufig gestellte fragen (faq)
+RewriteRule   "^/x/FoGO"  "https://loxwiki.atlassian.net/wiki/x/DAHHOQ" [R=301,L]
+
+# Page Title: shelly1
+RewriteRule   "^/x/I4LeAg"  "https://loxwiki.atlassian.net/wiki/x/GQIXP" [R=301,L]
+
+# Page Title: mirobot2lox-ng
+RewriteRule   "^/x/GoBYAg"  "https://loxwiki.atlassian.net/wiki/x/EACROw" [R=301,L]
+
+# Page Title: gruppendurchsagen
+RewriteRule   "^/x/OYbeAg"  "https://loxwiki.atlassian.net/wiki/x/LwYXP" [R=301,L]
+
+# Page Title: einbau i2c (entwurf)
+RewriteRule   "^/x/UQZ7AQ"  "https://loxwiki.atlassian.net/wiki/x/R4azOg" [R=301,L]
+
+# Page Title: php module loxberry_io.php
+RewriteRule   "^/x/EIFYAg"  "https://loxwiki.atlassian.net/wiki/x/BgGROw" [R=301,L]
+
+# Page Title: wiringpi am loxberry 2.x manuell installieren
+RewriteRule   "^/x/ZgmcAw"  "https://loxwiki.atlassian.net/wiki/x/XInUP" [R=301,L]
+
+# Page Title: configfile in der bash parsen (z.b. im daemon)
+RewriteRule   "^/x/cA7L"  "https://loxwiki.atlassian.net/wiki/x/Zo4DOg" [R=301,L]
+
+# Page Title: what's new in v1.2.2
+RewriteRule   "^/x/KAESAg"  "https://loxwiki.atlassian.net/wiki/x/HoFKOw" [R=301,L]
+
+# Page Title: wolf ism8
+RewriteRule   "^/x/rYfPAw"  "https://loxwiki.atlassian.net/wiki/x/owcIPQ" [R=301,L]
+
+# Page Title: hardware
+RewriteRule   "^/x/TQLL"  "https://loxwiki.atlassian.net/wiki/x/Q4IDOg" [R=301,L]
+
+# Page Title: loxberry logging: tips and tricks
+RewriteRule   "^/x/aINYAg"  "https://loxwiki.atlassian.net/wiki/x/XgOROw" [R=301,L]
+
+# Page Title: perl loxberry system-module
+RewriteRule   "^/x/uAzL"  "https://loxwiki.atlassian.net/wiki/x/rowDOg" [R=301,L]
+
+# Page Title: include own js libraries and css files
+RewriteRule   "^/x/C4BYAg"  "https://loxwiki.atlassian.net/wiki/x/AQCROw" [R=301,L]
+
+# Page Title: hyper-v
+RewriteRule   "^/x/6ISdAQ"  "https://loxwiki.atlassian.net/wiki/x/3gTWOg" [R=301,L]
+
+# Page Title: loxberry ha bridge
+RewriteRule   "^/x/M4G3AQ"  "https://loxwiki.atlassian.net/wiki/x/KQHwOg" [R=301,L]
+
+# Page Title: virtuozzo
+RewriteRule   "^/x/8YSdAQ"  "https://loxwiki.atlassian.net/wiki/x/5wTWOg" [R=301,L]
+
+# Page Title: stats4lox::lox2telegraf
+RewriteRule   "^/x/rYRWBQ"  "https://loxwiki.atlassian.net/wiki/x/owSPPg" [R=301,L]
+
+# Page Title: prüfen ob usb-laufwerke eingebunden wurden
+RewriteRule   "^/x/8IO3AQ"  "https://loxwiki.atlassian.net/wiki/x/5gPwOg" [R=301,L]
+
+# Page Title: modbus powermeter (eastron sdm)
+RewriteRule   "^/x/AgJmAQ"  "https://loxwiki.atlassian.net/wiki/x/_IGeOg" [R=301,L]
+
+# Page Title: lbsystem::lbversion
+RewriteRule   "^/x/rAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/ooOzOg" [R=301,L]
+
+# Page Title: wie findet man das eigene installationsverzeichnis heraus? (loxberry 0.3)
+RewriteRule   "^/x/rgFmAQ"  "https://loxwiki.atlassian.net/wiki/x/pIGeOg" [R=301,L]
+
+# Page Title: skodaconnect
+RewriteRule   "^/x/CIGzB"  "https://loxwiki.atlassian.net/wiki/x/-gDsPQ" [R=301,L]
+
+# Page Title: widget miniserver
+RewriteRule   "^/x/QYgKAw"  "https://loxwiki.atlassian.net/wiki/x/NwhDP" [R=301,L]
+
+# Page Title: homematic geräte steuern
+RewriteRule   "^/x/x4beAg"  "https://loxwiki.atlassian.net/wiki/x/vQYXP" [R=301,L]
+
+# Page Title: mqtt - schritt für schritt: loxone -> mqtt
+RewriteRule   "^/x/a4ZYAg"  "https://loxwiki.atlassian.net/wiki/x/YQaROw" [R=301,L]
+
+# Page Title: cc26x2r1
+RewriteRule   "^/x/soDlB"  "https://loxwiki.atlassian.net/wiki/x/qAAePg" [R=301,L]
+
+# Page Title: what's new in v1.4
+RewriteRule   "^/x/UICxAg"  "https://loxwiki.atlassian.net/wiki/x/RgDqOw" [R=301,L]
+
+# Page Title: statistics 4 loxone
+RewriteRule   "^/x/voK4"  "https://loxwiki.atlassian.net/wiki/x/tALxOQ" [R=301,L]
+
+# Page Title: usage of the logging module
+RewriteRule   "^/x/GQV7AQ"  "https://loxwiki.atlassian.net/wiki/x/D4WzOg" [R=301,L]
+
+# Page Title: msudp_send_mem
+RewriteRule   "^/x/GIFYAg"  "https://loxwiki.atlassian.net/wiki/x/DgGROw" [R=301,L]
+
+# Page Title: verwendungszähler in loxberry
+RewriteRule   "^/x/rQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/o4KeOg" [R=301,L]
+
+# Page Title: used ports of loxberry and plugins
+RewriteRule   "^/x/IgDPAg"  "https://loxwiki.atlassian.net/wiki/x/GIAHP" [R=301,L]
+
+# Page Title: virtualbox-vmdk
+RewriteRule   "^/x/iQDqAw"  "https://loxwiki.atlassian.net/wiki/x/f4AiPQ" [R=301,L]
+
+# Page Title: infos und known issues zur alpha-version
+RewriteRule   "^/x/DwFmAQ"  "https://loxwiki.atlassian.net/wiki/x/BYGeOg" [R=301,L]
+
+# Page Title: hm-sec-sco
+RewriteRule   "^/x/v4beAg"  "https://loxwiki.atlassian.net/wiki/x/tQYXP" [R=301,L]
+
+# Page Title: lbsystem::lbhostname
+RewriteRule   "^/x/rgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/pIOzOg" [R=301,L]
+
+# Page Title: apc usv anlage über nodered
+RewriteRule   "^/x/ZoUKAw"  "https://loxwiki.atlassian.net/wiki/x/XAVDP" [R=301,L]
+
+# Page Title: loxberry vpn server
+RewriteRule   "^/x/5QDL"  "https://loxwiki.atlassian.net/wiki/x/24ADOg" [R=301,L]
+
+# Page Title: changelog loxberry stable
+RewriteRule   "^/x/ooOO"  "https://loxwiki.atlassian.net/wiki/x/mAPHOQ" [R=301,L]
+
+# Page Title: serial-usb-bridge
+RewriteRule   "^/x/JQTPAg"  "https://loxwiki.atlassian.net/wiki/x/G4QHP" [R=301,L]
+
+# Page Title: lbsystem::pluginloglevel
+RewriteRule   "^/x/2IG3AQ"  "https://loxwiki.atlassian.net/wiki/x/zgHwOg" [R=301,L]
+
+# Page Title: vanderbilt spc - edp-protokoll
+RewriteRule   "^/x/loJYAg"  "https://loxwiki.atlassian.net/wiki/x/jAKROw" [R=301,L]
+
+# Page Title: entwickler
+RewriteRule   "^/x/vICO"  "https://loxwiki.atlassian.net/wiki/x/sgDHOQ" [R=301,L]
+
+# Page Title: die entwickler des loxberry
+RewriteRule   "^/x/C4GO"  "https://loxwiki.atlassian.net/wiki/x/AQHHOQ" [R=301,L]
+
+# Page Title: what's new in v1.2.4
+RewriteRule   "^/x/bwE_Ag"  "https://loxwiki.atlassian.net/wiki/x/ZYF2Ow" [R=301,L]
+
+# Page Title: syntax error in <tmpl_*> tag at ...
+RewriteRule   "^/x/QAI_Ag"  "https://loxwiki.atlassian.net/wiki/x/NoJ2Ow" [R=301,L]
+
+# Page Title: loxberry::web::get_plugin_icon
+RewriteRule   "^/x/0QB7AQ"  "https://loxwiki.atlassian.net/wiki/x/x4CzOg" [R=301,L]
+
+# Page Title: hmip-spi
+RewriteRule   "^/x/j4AKAw"  "https://loxwiki.atlassian.net/wiki/x/hQBDP" [R=301,L]
+
+# Page Title: datums- und zeit-funktionen
+RewriteRule   "^/x/GwAEB"  "https://loxwiki.atlassian.net/wiki/x/EYA8PQ" [R=301,L]
+
+# Page Title: loxberry::system::currtime
+RewriteRule   "^/x/8wR7AQ"  "https://loxwiki.atlassian.net/wiki/x/6YSzOg" [R=301,L]
+
+# Page Title: loxberry::system::is_disabled
+RewriteRule   "^/x/tAB7AQ"  "https://loxwiki.atlassian.net/wiki/x/qoCzOg" [R=301,L]
+
+# Page Title: loxberry::io::msudp_send_mem
+RewriteRule   "^/x/gQE_Ag"  "https://loxwiki.atlassian.net/wiki/x/d4F2Ow" [R=301,L]
+
+# Page Title: how-to's (knowledge base)
+RewriteRule   "^/x/YIGO"  "https://loxwiki.atlassian.net/wiki/x/VgHHOQ" [R=301,L]
+
+# Page Title: ble-scanner
+RewriteRule   "^/x/O4OO"  "https://loxwiki.atlassian.net/wiki/x/MQPHOQ" [R=301,L]
+
+# Page Title: stats4lox (entwickler)
+RewriteRule   "^/x/LwI_Ag"  "https://loxwiki.atlassian.net/wiki/x/JYJ2Ow" [R=301,L]
+
+# Page Title: php loxberry system-module
+RewriteRule   "^/x/_wFmAQ"  "https://loxwiki.atlassian.net/wiki/x/8YGeOg" [R=301,L]
+
+# Page Title: navigation bar (perl)
+RewriteRule   "^/x/XgNmAQ"  "https://loxwiki.atlassian.net/wiki/x/VIOeOg" [R=301,L]
+
+# Page Title: landxcape und mähzonen
+RewriteRule   "^/x/foFhBg"  "" [R=301,L]
+
+# Page Title: österreich - oö - wasserpegel
+RewriteRule   "^/x/g4KzB"  "https://loxwiki.atlassian.net/wiki/x/eQLsPQ" [R=301,L]
+
+# Page Title: modbus gateway
+RewriteRule   "^/x/QADgAQ"  "https://loxwiki.atlassian.net/wiki/x/NoAYOw" [R=301,L]
+
+# Page Title: whats new in v2.2.0
+RewriteRule   "^/x/GATqAw"  "https://loxwiki.atlassian.net/wiki/x/DoQiPQ" [R=301,L]
+
+# Page Title: smartmeter plugin
+RewriteRule   "^/x/mA-L"  "https://loxwiki.atlassian.net/wiki/x/jo8DOg" [R=301,L]
+
+# Page Title: de - tabelle der deutschen fußball-bundesliga
+RewriteRule   "^/x/WYCzB"  "https://loxwiki.atlassian.net/wiki/x/TwDsPQ" [R=301,L]
+
+# Page Title: changelog v1.0
+RewriteRule   "^/x/oIOdAQ"  "https://loxwiki.atlassian.net/wiki/x/lgPWOg" [R=301,L]
+
+# Page Title: loxberry::log::get_logs
+RewriteRule   "^/x/zwHgAQ"  "https://loxwiki.atlassian.net/wiki/x/xYEYOw" [R=301,L]
+
+# Page Title: 4. echtzeit-aktualisierung der statistikdaten (mqtt liveupdate)
+RewriteRule   "^/x/-YRWBQ"  "https://loxwiki.atlassian.net/wiki/x/8wSPPg" [R=301,L]
+
+# Page Title: danlock
+RewriteRule   "^/x/HYHlB"  "https://loxwiki.atlassian.net/wiki/x/EwEePg" [R=301,L]
+
+# Page Title: mqtt vs. http - vorteile und nachteile
+RewriteRule   "^/x/QQANBQ"  "https://loxwiki.atlassian.net/wiki/x/N4BFPg" [R=301,L]
+
+# Page Title: lblog::get_notifications_html
+RewriteRule   "^/x/kYC3AQ"  "https://loxwiki.atlassian.net/wiki/x/hwDwOg" [R=301,L]
+
+# Page Title: miniserverbackup
+RewriteRule   "^/x/jIKO"  "https://loxwiki.atlassian.net/wiki/x/ggLHOQ" [R=301,L]
+
+# Page Title: perl html::template - loop through data
+RewriteRule   "^/x/ngA_Ag"  "https://loxwiki.atlassian.net/wiki/x/lIB2Ow" [R=301,L]
+
+# Page Title: löschkandidaten
+RewriteRule   "^/x/EIGO"  "https://loxwiki.atlassian.net/wiki/x/BgHHOQ" [R=301,L]
+
+# Page Title: automatic and manual plugin updates
+RewriteRule   "^/x/doSxAg"  "https://loxwiki.atlassian.net/wiki/x/bATqOw" [R=301,L]
+
+# Page Title: rpi-monitor
+RewriteRule   "^/x/NoCm"  "https://loxwiki.atlassian.net/wiki/x/LADfOQ" [R=301,L]
+
+# Page Title: mshttp_send
+RewriteRule   "^/x/IYFYAg"  "https://loxwiki.atlassian.net/wiki/x/FwGROw" [R=301,L]
+
+# Page Title: alexa2lox 3.0 (eol)
+RewriteRule   "^/x/8AB7AQ"  "https://loxwiki.atlassian.net/wiki/x/5oCzOg" [R=301,L]
+
+# Page Title: allgemeines zu den gpios
+RewriteRule   "^/x/4YRYAg"  "https://loxwiki.atlassian.net/wiki/x/1wSROw" [R=301,L]
+
+# Page Title: plug
+RewriteRule   "^/x/BoHlB"  "https://loxwiki.atlassian.net/wiki/x/-AAePg" [R=301,L]
+
+# Page Title: funktion loxberry::web::head und ::foot
+RewriteRule   "^/x/2wzL"  "https://loxwiki.atlassian.net/wiki/x/0YwDOg" [R=301,L]
+
+# Page Title: e3dc
+RewriteRule   "^/x/s4M_AQ"  "https://loxwiki.atlassian.net/wiki/x/qQN3Og" [R=301,L]
+
+# Page Title: nuki smartlock
+RewriteRule   "^/x/t4RdAw"  "https://loxwiki.atlassian.net/wiki/x/rQSWP" [R=301,L]
+
+# Page Title: shelly em and shelly 3em
+RewriteRule   "^/x/Q4TeAg"  "https://loxwiki.atlassian.net/wiki/x/OQQXP" [R=301,L]
+
+# Page Title: beheben von read-only file system
+RewriteRule   "^/x/PYAuBQ"  "https://loxwiki.atlassian.net/wiki/x/MwBnPg" [R=301,L]
+
+# Page Title: plugin-wunschliste
+RewriteRule   "^/x/pIG4"  "https://loxwiki.atlassian.net/wiki/x/mgHxOQ" [R=301,L]
+
+# Page Title: fanartikel
+RewriteRule   "^/x/VoGO"  "https://loxwiki.atlassian.net/wiki/x/TAHHOQ" [R=301,L]
+
+# Page Title: mqtt_publish/mqtt_retain/mqtt_set
+RewriteRule   "^/x/JIhWBQ"  "https://loxwiki.atlassian.net/wiki/x/GgiPPg" [R=301,L]
+
+# Page Title: hmip-bsm
+RewriteRule   "^/x/u4beAg"  "https://loxwiki.atlassian.net/wiki/x/sQYXP" [R=301,L]
+
+# Page Title: loxoneconfig ideensammlung
+RewriteRule   "^/x/l4LlB"  "https://loxwiki.atlassian.net/wiki/x/jQIePg" [R=301,L]
+
+# Page Title: tabelle der deutschen fußball-bundesliga
+RewriteRule   "^/x/WYCzB"  "https://loxwiki.atlassian.net/wiki/x/TwDsPQ" [R=301,L]
+
+# Page Title: widget setup assistant
+RewriteRule   "^/x/pYgKAw"  "https://loxwiki.atlassian.net/wiki/x/mwhDP" [R=301,L]
+
+# Page Title: rcswitch 433 mhz plugin
+RewriteRule   "^/x/JATL"  "https://loxwiki.atlassian.net/wiki/x/GoQDOg" [R=301,L]
+
+# Page Title: vitoconnect
+RewriteRule   "^/x/4oDPAw"  "https://loxwiki.atlassian.net/wiki/x/2AAIPQ" [R=301,L]
+
+# Page Title: mqtt-gateway - generischer post / get / json empfänger
+RewriteRule   "^/x/ZofPAw"  "https://loxwiki.atlassian.net/wiki/x/XAcIPQ" [R=301,L]
+
+# Page Title: perl modul loxberry::json
+RewriteRule   "^/x/A4CkAg"  "https://loxwiki.atlassian.net/wiki/x/_f-cOw" [R=301,L]
+
+# Page Title: lbstorage::get_storage_html
+RewriteRule   "^/x/bAHgAQ"  "https://loxwiki.atlassian.net/wiki/x/YoEYOw" [R=301,L]
+
+# Page Title: worx landroid via fhem und mqtt via loxberry an den loxone miniserver anbinden
+RewriteRule   "^/x/LIdWBQ"  "https://loxwiki.atlassian.net/wiki/x/IgePPg" [R=301,L]
+
+# Page Title: plugin upgrade guide
+RewriteRule   "^/x/KIKdAQ"  "https://loxwiki.atlassian.net/wiki/x/HgLWOg" [R=301,L]
+
+# Page Title: funktion loxberry::web::lbheader und ::lbfooter
+RewriteRule   "^/x/2wzL"  "https://loxwiki.atlassian.net/wiki/x/0YwDOg" [R=301,L]
+
+# Page Title: fehler "dpkg was interrupted, you must manually run..."
+RewriteRule   "^/x/awEWAQ"  "https://loxwiki.atlassian.net/wiki/x/YYFOOg" [R=301,L]
+
+# Page Title: funktionen zum erstellen des templates
+RewriteRule   "^/x/2wzL"  "https://loxwiki.atlassian.net/wiki/x/0YwDOg" [R=301,L]
+
+# Page Title: perl-modul loxberry::io
+RewriteRule   "^/x/PQE_Ag"  "https://loxwiki.atlassian.net/wiki/x/M4F2Ow" [R=301,L]
+
+# Page Title: password for webinterface forgotten
+RewriteRule   "^/x/J4oKAw"  "https://loxwiki.atlassian.net/wiki/x/HQpDP" [R=301,L]
+
+# Page Title: owntracks
+RewriteRule   "^/x/_oDeAg"  "https://loxwiki.atlassian.net/wiki/x/8AAXP" [R=301,L]
+
+# Page Title: knxd
+RewriteRule   "^/x/UwDL"  "https://loxwiki.atlassian.net/wiki/x/SYADOg" [R=301,L]
+
+# Page Title: mqtt gateway - schritt für schritt loxone -> mqtt
+RewriteRule   "^/x/a4ZYAg"  "https://loxwiki.atlassian.net/wiki/x/YQaROw" [R=301,L]
+
+# Page Title: debugging of notifications
+RewriteRule   "^/x/7oC3AQ"  "https://loxwiki.atlassian.net/wiki/x/5ADwOg" [R=301,L]
+
+# Page Title: mqtt gateway - troubleshooting guide
+RewriteRule   "^/x/O4ixAg"  "https://loxwiki.atlassian.net/wiki/x/MQjqOw" [R=301,L]
+
+# Page Title: zugriff auf den mqtt broker
+RewriteRule   "^/x/MwAEB"  "https://loxwiki.atlassian.net/wiki/x/KYA8PQ" [R=301,L]
+
+# Page Title: loxberry::system::diskspaceinfo
+RewriteRule   "^/x/oAd7AQ"  "https://loxwiki.atlassian.net/wiki/x/loezOg" [R=301,L]
+
+# Page Title: cam-connect
+RewriteRule   "^/x/YYGO"  "https://loxwiki.atlassian.net/wiki/x/VwHHOQ" [R=301,L]
+
+# Page Title: installation von loxberry auf esxi 7.0
+RewriteRule   "^/x/-YBhBg"  "" [R=301,L]
+
+# Page Title: loxberry
+RewriteRule   "^/x/o4CO"  "https://loxwiki.atlassian.net/wiki/x/mQDHOQ" [R=301,L]
+
+# Page Title: odroid xu3/xu4 loxberry
+RewriteRule   "^/x/yICxAg"  "https://loxwiki.atlassian.net/wiki/x/vgDqOw" [R=301,L]
+
+# Page Title: loxberry::web::pageend
+RewriteRule   "^/x/yAB7AQ"  "https://loxwiki.atlassian.net/wiki/x/voCzOg" [R=301,L]
+
+# Page Title: conbee2
+RewriteRule   "^/x/pIDlB"  "https://loxwiki.atlassian.net/wiki/x/mgAePg" [R=301,L]
+
+# Page Title: lbsystem::get_miniserver_by_name
+RewriteRule   "^/x/pgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/nIOzOg" [R=301,L]
+
+# Page Title: :system::get_miniserver_by_ip
+RewriteRule   "^/x/lQB7AQ"  "https://loxwiki.atlassian.net/wiki/x/i4CzOg" [R=301,L]
+
+# Page Title: perl modul net::mqtt::simple
+RewriteRule   "^/x/mgPPAg"  "https://loxwiki.atlassian.net/wiki/x/kIMHP" [R=301,L]
+
+# Page Title: loxberry::system::get_binaries()
+RewriteRule   "^/x/rQ7L"  "https://loxwiki.atlassian.net/wiki/x/o44DOg" [R=301,L]
+
+# Page Title: kopie von udp transformer - sort (shipped)
+RewriteRule   "^/x/kYRWBQ"  "https://loxwiki.atlassian.net/wiki/x/hwSPPg" [R=301,L]
+
+# Page Title: plugin-installation direkt - ohne gui, ohne zip 1
+RewriteRule   "^/x/d4RYAg"  "https://loxwiki.atlassian.net/wiki/x/bQSROw" [R=301,L]
+
+# Page Title: synology surveillance station
+RewriteRule   "^/x/mID-/"  "https://loxwiki.atlassian.net/wiki/x/jgA4Og" [R=301,L]
+
+# Page Title: loxberry::storage::get_storage
+RewriteRule   "^/x/DgHgAQ"  "https://loxwiki.atlassian.net/wiki/x/BIEYOw" [R=301,L]
+
+# Page Title: ochsner web2com plugin
+RewriteRule   "^/x/kIK4"  "https://loxwiki.atlassian.net/wiki/x/hgLxOQ" [R=301,L]
+
+# Page Title: spenden? :-)
+RewriteRule   "^/x/b4fPAw"  "https://loxwiki.atlassian.net/wiki/x/ZQcIPQ" [R=301,L]
+
+# Page Title: what's new in v1.0.3
+RewriteRule   "^/x/noG3AQ"  "https://loxwiki.atlassian.net/wiki/x/lAHwOg" [R=301,L]
+
+# Page Title: loxberry::system::get_localip
+RewriteRule   "^/x/qAB7AQ"  "https://loxwiki.atlassian.net/wiki/x/noCzOg" [R=301,L]
+
+# Page Title: changelog loxberry stable bis version 0.2.4
+RewriteRule   "^/x/ooOO"  "https://loxwiki.atlassian.net/wiki/x/mAPHOQ" [R=301,L]
+
+# Page Title: /opt/loxberry meldung
+RewriteRule   "^/x/1AbqAw"  "https://loxwiki.atlassian.net/wiki/x/yoYiPQ" [R=301,L]
+
+# Page Title: homematic geräte schalten
+RewriteRule   "^/x/x4beAg"  "https://loxwiki.atlassian.net/wiki/x/vQYXP" [R=301,L]
+
+# Page Title: loxberry xl - extended logic
+RewriteRule   "^/x/AQAEB"  "https://loxwiki.atlassian.net/wiki/x/9388PQ" [R=301,L]
+
+# Page Title: shelly4pro
+RewriteRule   "^/x/LILeAg"  "https://loxwiki.atlassian.net/wiki/x/IgIXP" [R=301,L]
+
+# Page Title: shelly devices
+RewriteRule   "^/x/1oHeAg"  "https://loxwiki.atlassian.net/wiki/x/zAEXP" [R=301,L]
+
+# Page Title: unifi controller plugin
+RewriteRule   "^/x/DYAjBQ"  "https://loxwiki.atlassian.net/wiki/x/AwBcPg" [R=301,L]
+
+# Page Title: plugindatabase.json / loxberry::system::plugindb
+RewriteRule   "^/x/HAKCAw"  "https://loxwiki.atlassian.net/wiki/x/EoK6P" [R=301,L]
+
+# Page Title: loxberry und tmpfs (ram-disk)
+RewriteRule   "^/x/QINYAg"  "https://loxwiki.atlassian.net/wiki/x/NgOROw" [R=301,L]
+
+# Page Title: perl: use datetime vermeiden
+RewriteRule   "^/x/oAZ7AQ"  "https://loxwiki.atlassian.net/wiki/x/loazOg" [R=301,L]
+
+# Page Title: widget reboot / power
+RewriteRule   "^/x/fogKAw"  "https://loxwiki.atlassian.net/wiki/x/dAhDP" [R=301,L]
+
+# Page Title: rcswitch plugin
+RewriteRule   "^/x/JATL"  "https://loxwiki.atlassian.net/wiki/x/GoQDOg" [R=301,L]
+
+# Page Title: kodi am loxberry installieren (manuell)
+RewriteRule   "^/x/ZIK4"  "https://loxwiki.atlassian.net/wiki/x/WgLxOQ" [R=301,L]
+
+# Page Title: php - develop plugins with php
+RewriteRule   "^/x/3QN7AQ"  "https://loxwiki.atlassian.net/wiki/x/04OzOg" [R=301,L]
+
+# Page Title: einbau möglichkeiten usb
+RewriteRule   "^/x/PwF7AQ"  "https://loxwiki.atlassian.net/wiki/x/NYGzOg" [R=301,L]
+
+# Page Title: text-2-speech
+RewriteRule   "^/x/uoFYAg"  "https://loxwiki.atlassian.net/wiki/x/sAGROw" [R=301,L]
+
+# Page Title: lbweb::mslist_select_html
+RewriteRule   "^/x/EwI_Ag"  "https://loxwiki.atlassian.net/wiki/x/CYJ2Ow" [R=301,L]
+
+# Page Title: loxberry::io::mshttp_call2
+RewriteRule   "^/x/uYNWBQ"  "https://loxwiki.atlassian.net/wiki/x/rwOPPg" [R=301,L]
+
+# Page Title: loxberry::system::reboot_required
+RewriteRule   "^/x/kQd7AQ"  "https://loxwiki.atlassian.net/wiki/x/h4ezOg" [R=301,L]
+
+# Page Title: raumserver
+RewriteRule   "^/x/eoM_AQ"  "https://loxwiki.atlassian.net/wiki/x/cAN3Og" [R=301,L]
+
+# Page Title: notfall webserver
+RewriteRule   "^/x/d4RWBQ"  "https://loxwiki.atlassian.net/wiki/x/bQSPPg" [R=301,L]
+
+# Page Title: bash loxberry sdk documentation
+RewriteRule   "^/x/r4KdAQ"  "https://loxwiki.atlassian.net/wiki/x/pQLWOg" [R=301,L]
+
+# Page Title: kopie syslog server (english)
+RewriteRule   "^/x/wQDgAQ"  "https://loxwiki.atlassian.net/wiki/x/t4AYOw" [R=301,L]
+
+# Page Title: loxberry::io::mshttp_send_mem
+RewriteRule   "^/x/fQE_Ag"  "https://loxwiki.atlassian.net/wiki/x/c4F2Ow" [R=301,L]
+
+# Page Title: lbsystem::get_binaries
+RewriteRule   "^/x/qAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/noOzOg" [R=301,L]
+
+# Page Title: widget donate
+RewriteRule   "^/x/NYkKAw"  "https://loxwiki.atlassian.net/wiki/x/KwlDP" [R=301,L]
+
+# Page Title: lbsystem::readlanguage
+RewriteRule   "^/x/zAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/woOzOg" [R=301,L]
+
+# Page Title: lbsystem::is_enabled($text)
+RewriteRule   "^/x/tAN7AQ"  "https://loxwiki.atlassian.net/wiki/x/qoOzOg" [R=301,L]
+
+# Page Title: loxberry::system::is_enabled
+RewriteRule   "^/x/sgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/qICzOg" [R=301,L]
+
+# Page Title: die moderatoren von loxberry
+RewriteRule   "^/x/C4GO"  "https://loxwiki.atlassian.net/wiki/x/AQHHOQ" [R=301,L]
+
+# Page Title: caldav-4-lox
+RewriteRule   "^/x/oYK4"  "https://loxwiki.atlassian.net/wiki/x/lwLxOQ" [R=301,L]
+
+# Page Title: tipps und tricks
+RewriteRule   "^/x/aIC4"  "https://loxwiki.atlassian.net/wiki/x/XgDxOQ" [R=301,L]
+
+# Page Title: sureflap connect
+RewriteRule   "^/x/PgGCAw"  "https://loxwiki.atlassian.net/wiki/x/NIG6P" [R=301,L]
+
+# Page Title: danalock
+RewriteRule   "^/x/HYHlB"  "https://loxwiki.atlassian.net/wiki/x/EwEePg" [R=301,L]
+
+# Page Title: loxberry::storage::get_storage_html
+RewriteRule   "^/x/BgHgAQ"  "https://loxwiki.atlassian.net/wiki/x/-IAYOw" [R=301,L]
+
+# Page Title: plugin für den loxberry entwickeln (ab version 1.x)
+RewriteRule   "^/x/-QJmAQ"  "https://loxwiki.atlassian.net/wiki/x/84KeOg" [R=301,L]
+
+# Page Title: sonos4loxone neu
+RewriteRule   "^/x/6wnL"  "https://loxwiki.atlassian.net/wiki/x/4YkDOg" [R=301,L]
+
+# Page Title: mqtt gateway - loxone logger receiver
+RewriteRule   "^/x/dwD8B"  "https://loxwiki.atlassian.net/wiki/x/bYA0Pg" [R=301,L]
+
+# Page Title: lbsystem::lbcountry
+RewriteRule   "^/x/BoCzB"  "https://loxwiki.atlassian.net/wiki/x/-P-rPQ" [R=301,L]
+
+# Page Title: homematic geräte firmware updaten
+RewriteRule   "^/x/JYZtB"  "https://loxwiki.atlassian.net/wiki/x/GwamPQ" [R=301,L]
+
+# Page Title: what's new in loxberry v1.0 (english)
+RewriteRule   "^/x/sYOdAQ"  "https://loxwiki.atlassian.net/wiki/x/pwPWOg" [R=301,L]
+
+# Page Title: eine cronjobs im plugin-code pflegen
+RewriteRule   "^/x/aAFmAQ"  "https://loxwiki.atlassian.net/wiki/x/XoGeOg" [R=301,L]
+
+# Page Title: zigbee2mqtt plugin
+RewriteRule   "^/x/5gYEB"  "https://loxwiki.atlassian.net/wiki/x/3IY8PQ" [R=301,L]
+
+# Page Title: hifiberry installieren
+RewriteRule   "^/x/KIJMB"  "https://loxwiki.atlassian.net/wiki/x/HgKFPQ" [R=301,L]
+
+# Page Title: what's new in loxberry v1.0
+RewriteRule   "^/x/4gFmAQ"  "https://loxwiki.atlassian.net/wiki/x/2IGeOg" [R=301,L]
+
+# Page Title: loxberry::lox::new (logging constructor)
+RewriteRule   "^/x/pQHgAQ"  "https://loxwiki.atlassian.net/wiki/x/m4EYOw" [R=301,L]
+
+# Page Title: ebusd plugin
+RewriteRule   "^/x/PoRdAw"  "https://loxwiki.atlassian.net/wiki/x/NASWP" [R=301,L]
+
+# Page Title: samba-share soll loxberry update überleben
+RewriteRule   "^/x/FoK3AQ"  "https://loxwiki.atlassian.net/wiki/x/DALwOg" [R=301,L]
+
+# Page Title: return values of get_notifications
+RewriteRule   "^/x/_IC3AQ"  "https://loxwiki.atlassian.net/wiki/x/7gDwOg" [R=301,L]
+
+# Page Title: s4l - cli queries gegen influx ausführen
+RewriteRule   "^/x/eIBhBg"  "" [R=301,L]
+
+# Page Title: what's new in v1.2.1
+RewriteRule   "^/x/igHgAQ"  "https://loxwiki.atlassian.net/wiki/x/gIEYOw" [R=301,L]
+
+# Page Title: s4l dev tools
+RewriteRule   "^/x/eodWBQ"  "https://loxwiki.atlassian.net/wiki/x/cAePPg" [R=301,L]
+
+# Page Title: label "article_maintenance_requested"
+RewriteRule   "^/x/aISxAg"  "https://loxwiki.atlassian.net/wiki/x/XgTqOw" [R=301,L]
+
+# Page Title: docker
+RewriteRule   "^/x/mgI_Ag"  "https://loxwiki.atlassian.net/wiki/x/kIJ2Ow" [R=301,L]
+
+# Page Title: kopie von loxberry::system::lbfriendlyname
+RewriteRule   "^/x/rQB7AQ"  "https://loxwiki.atlassian.net/wiki/x/o4CzOg" [R=301,L]
+
+# Page Title: translation guide for loxberry
+RewriteRule   "^/x/QgZ7AQ"  "https://loxwiki.atlassian.net/wiki/x/OIazOg" [R=301,L]
+
+# Page Title: ikea plug
+RewriteRule   "^/x/BoHlB"  "https://loxwiki.atlassian.net/wiki/x/-AAePg" [R=301,L]
+
+# Page Title: loxberry::system::begins_with
+RewriteRule   "^/x/ugB7AQ"  "https://loxwiki.atlassian.net/wiki/x/sICzOg" [R=301,L]
+
+# Page Title: plugins entwickeln mit perl
+RewriteRule   "^/x/2wN7AQ"  "https://loxwiki.atlassian.net/wiki/x/0YOzOg" [R=301,L]
+
+# Page Title: php module loxberry_storage.php
+RewriteRule   "^/x/agHgAQ"  "https://loxwiki.atlassian.net/wiki/x/YIEYOw" [R=301,L]
+
+# Page Title: kopie von wie findet man das eigene installationsverzeichnis heraus? (loxberry 0.3)
+RewriteRule   "^/x/rgFmAQ"  "https://loxwiki.atlassian.net/wiki/x/pIGeOg" [R=301,L]
+
+# Page Title: loxberry::system::execute
+RewriteRule   "^/x/14FdAw"  "https://loxwiki.atlassian.net/wiki/x/zQGWP" [R=301,L]
+
+# Page Title: schnelles backup / sicherung des loxberrys
+RewriteRule   "^/x/8gDL"  "https://loxwiki.atlassian.net/wiki/x/6IADOg" [R=301,L]
+
+# Page Title: fertiggestellte pluginwünsche
+RewriteRule   "^/x/voG3AQ"  "https://loxwiki.atlassian.net/wiki/x/tAHwOg" [R=301,L]
+
+# Page Title: loxberry::web::iso_languages
+RewriteRule   "^/x/Mgd7AQ"  "https://loxwiki.atlassian.net/wiki/x/KIezOg" [R=301,L]
+
+# Page Title: grünlandtemperatursumme (gts)
+RewriteRule   "^/x/WoKzB"  "https://loxwiki.atlassian.net/wiki/x/UALsPQ" [R=301,L]
+
+# Page Title: plugin veröffentlichen
+RewriteRule   "^/x/MIKO"  "https://loxwiki.atlassian.net/wiki/x/JgLHOQ" [R=301,L]
+
+# Page Title: lblog::notify_ext
+RewriteRule   "^/x/joC3AQ"  "https://loxwiki.atlassian.net/wiki/x/hADwOg" [R=301,L]
+
+# Page Title: what's new in v0.2.x
+RewriteRule   "^/x/ooOO"  "https://loxwiki.atlassian.net/wiki/x/mAPHOQ" [R=301,L]
+
+# Page Title: udp transformer - sort (shipped)
+RewriteRule   "^/x/kYRWBQ"  "https://loxwiki.atlassian.net/wiki/x/hwSPPg" [R=301,L]
+
+# Page Title: foshkplugin - generic version
+RewriteRule   "^/x/soFMB"  "https://loxwiki.atlassian.net/wiki/x/qAGFPQ" [R=301,L]
+
+# Page Title: hmip-mp3p
+RewriteRule   "^/x/GoIKAw"  "https://loxwiki.atlassian.net/wiki/x/EAJDP" [R=301,L]
+
+# Page Title: hmip-wrc6
+RewriteRule   "^/x/OABABQ"  "https://loxwiki.atlassian.net/wiki/x/LoB4Pg" [R=301,L]
+
+# Page Title: widget admin access
+RewriteRule   "^/x/-oYKAw"  "https://loxwiki.atlassian.net/wiki/x/9AZDP" [R=301,L]
+
+# Page Title: comfoconnect
+RewriteRule   "^/x/XYtWBQ"  "https://loxwiki.atlassian.net/wiki/x/UwuPPg" [R=301,L]
+
+# Page Title: hardware für gpios
+RewriteRule   "^/x/JYVWBQ"  "https://loxwiki.atlassian.net/wiki/x/GwWPPg" [R=301,L]
+
+# Page Title: nibe uplink bridge
+RewriteRule   "^/x/FgE_Ag"  "https://loxwiki.atlassian.net/wiki/x/DIF2Ow" [R=301,L]
+
+# Page Title: loxberry::system::trim / ltrim / rtrim
+RewriteRule   "^/x/tgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/rICzOg" [R=301,L]
+
+# Page Title: autoupdate funktion für plugins
+RewriteRule   "^/x/WoG3AQ"  "https://loxwiki.atlassian.net/wiki/x/UAHwOg" [R=301,L]
+
+# Page Title: playlisten / radio
+RewriteRule   "^/x/OYbeAg"  "https://loxwiki.atlassian.net/wiki/x/LwYXP" [R=301,L]
+
+# Page Title: stats4lox entwickler dokumentation
+RewriteRule   "^/x/24NWBQ"  "https://loxwiki.atlassian.net/wiki/x/0QOPPg" [R=301,L]
+
+# Page Title: shellysensor - h&t, smoke and sense
+RewriteRule   "^/x/N4LeAg"  "https://loxwiki.atlassian.net/wiki/x/LQIXP" [R=301,L]
+
+# Page Title: gardena smart system
+RewriteRule   "^/x/BwISAg"  "https://loxwiki.atlassian.net/wiki/x/-YFKOw" [R=301,L]
+
+# Page Title: statistics-4-loxone
+RewriteRule   "^/x/voK4"  "https://loxwiki.atlassian.net/wiki/x/tALxOQ" [R=301,L]
+
+# Page Title: shellyplugs
+RewriteRule   "^/x/MILeAg"  "https://loxwiki.atlassian.net/wiki/x/JgIXP" [R=301,L]
+
+# Page Title: loxberry::system::pluginloglevel
+RewriteRule   "^/x/1oG3AQ"  "https://loxwiki.atlassian.net/wiki/x/zAHwOg" [R=301,L]
+
+# Page Title: einrichtung am mqtt-device
+RewriteRule   "^/x/nIdYAg"  "https://loxwiki.atlassian.net/wiki/x/kgeROw" [R=301,L]
+
+# Page Title: logitech media server am loxberry installieren
+RewriteRule   "^/x/KoDVAQ"  "https://loxwiki.atlassian.net/wiki/x/IAAOOw" [R=301,L]
+
+# Page Title: loxberry::web::lbfooter
+RewriteRule   "^/x/zwB7AQ"  "https://loxwiki.atlassian.net/wiki/x/xYCzOg" [R=301,L]
+
+# Page Title: eigene cronjobs im plugin-code pflegen
+RewriteRule   "^/x/aAFmAQ"  "https://loxwiki.atlassian.net/wiki/x/XoGeOg" [R=301,L]
+
+# Page Title: per hdmi angeschlossenes gerät steuern (hdmi-cec)
+RewriteRule   "^/x/OgFmAQ"  "https://loxwiki.atlassian.net/wiki/x/MIGeOg" [R=301,L]
+
+# Page Title: "hack" zum erstellen des englischen files aus einer deutschen sprachdatei
+RewriteRule   "^/x/TIOdAQ"  "https://loxwiki.atlassian.net/wiki/x/QgPWOg" [R=301,L]
+
+# Page Title: loxberry zum vpn server machen
+RewriteRule   "^/x/5QDL"  "https://loxwiki.atlassian.net/wiki/x/24ADOg" [R=301,L]
+
+# Page Title: loxmatic
+RewriteRule   "^/x/1IaxAg"  "https://loxwiki.atlassian.net/wiki/x/ygbqOw" [R=301,L]
+
+# Page Title: hmip-smi
+RewriteRule   "^/x/vYbeAg"  "https://loxwiki.atlassian.net/wiki/x/swYXP" [R=301,L]
+
+# Page Title: obsoletes aus stats4lox 1. generation-zeiten...
+RewriteRule   "^/x/JINWBQ"  "https://loxwiki.atlassian.net/wiki/x/GgOPPg" [R=301,L]
+
+# Page Title: loxberry::system::write_file
+RewriteRule   "^/x/vINWBQ"  "https://loxwiki.atlassian.net/wiki/x/sgOPPg" [R=301,L]
+
+# Page Title: whats new in v2.0
+RewriteRule   "^/x/EYBdAw"  "https://loxwiki.atlassian.net/wiki/x/BwCWP" [R=301,L]
+
+# Page Title: bwt aqua
+RewriteRule   "^/x/aYHQB"  "https://loxwiki.atlassian.net/wiki/x/XwEJPg" [R=301,L]
+
+# Page Title: plugin cannot be installed
+RewriteRule   "^/x/2odYAg"  "https://loxwiki.atlassian.net/wiki/x/0AeROw" [R=301,L]
+
+# Page Title: stats4lox::influx_lineprot
+RewriteRule   "^/x/44NWBQ"  "https://loxwiki.atlassian.net/wiki/x/2QOPPg" [R=301,L]
+
+# Page Title: lms 4 loxberry
+RewriteRule   "^/x/ggDgAQ"  "https://loxwiki.atlassian.net/wiki/x/eIAYOw" [R=301,L]
+
+# Page Title: ideensammlung
+RewriteRule   "^/x/l4LlB"  "https://loxwiki.atlassian.net/wiki/x/jQIePg" [R=301,L]
+
+# Page Title: led weiß
+RewriteRule   "^/x/-YDlB"  "https://loxwiki.atlassian.net/wiki/x/8wAePg" [R=301,L]
+
+# Page Title: loxberry::io::msudp_send
+RewriteRule   "^/x/RgE_Ag"  "https://loxwiki.atlassian.net/wiki/x/PIF2Ow" [R=301,L]
+
+# Page Title: netzwerk-freigaben
+RewriteRule   "^/x/IYRYAg"  "https://loxwiki.atlassian.net/wiki/x/FwSROw" [R=301,L]
+
+# Page Title: download und spiegel-sites
+RewriteRule   "^/x/YQR7AQ"  "https://loxwiki.atlassian.net/wiki/x/V4SzOg" [R=301,L]
+
+# Page Title: loxone anbindung
+RewriteRule   "^/x/PYfeAg"  "https://loxwiki.atlassian.net/wiki/x/MwcXP" [R=301,L]
+
+# Page Title: mqtt gateway 2.0 what's new
+RewriteRule   "^/x/UIBWBQ"  "https://loxwiki.atlassian.net/wiki/x/RgCPPg" [R=301,L]
+
+# Page Title: sml-emon
+RewriteRule   "^/x/yw3L"  "https://loxwiki.atlassian.net/wiki/x/wY0DOg" [R=301,L]
+
+# Page Title: owncloud
+RewriteRule   "^/x/GoK4"  "https://loxwiki.atlassian.net/wiki/x/EALxOQ" [R=301,L]
+
+# Page Title: securepin vergessen
+RewriteRule   "^/x/KooKAw"  "https://loxwiki.atlassian.net/wiki/x/IApDP" [R=301,L]
+
+# Page Title: plugin autoupdate function for plugins
+RewriteRule   "^/x/WoG3AQ"  "https://loxwiki.atlassian.net/wiki/x/UAHwOg" [R=301,L]
+
+# Page Title: ip gateway weinzierl 838 knx baos modul kberry
+RewriteRule   "^/x/gYdWBQ"  "https://loxwiki.atlassian.net/wiki/x/dwePPg" [R=301,L]
+
+# Page Title: syslog server
+RewriteRule   "^/x/uQDgAQ"  "https://loxwiki.atlassian.net/wiki/x/r4AYOw" [R=301,L]
+
+# Page Title: widget log manager
+RewriteRule   "^/x/YYgKAw"  "https://loxwiki.atlassian.net/wiki/x/VwhDP" [R=301,L]
+
+# Page Title: html::template: attempt to set parameter 'xxx' with an array ref
+RewriteRule   "^/x/AgB7AQ"  "https://loxwiki.atlassian.net/wiki/x/_H_zOg" [R=301,L]
+
+# Page Title: loxberry und die datenschutzgrundverordnung (eu-dsgvo)
+RewriteRule   "^/x/MQASAg"  "https://loxwiki.atlassian.net/wiki/x/J4BKOw" [R=301,L]
+
+# Page Title: what's new in v1.2.0
+RewriteRule   "^/x/BoS3AQ"  "https://loxwiki.atlassian.net/wiki/x/-APwOg" [R=301,L]
+
+# Page Title: linux: systemweit buntes ls in listenform
+RewriteRule   "^/x/zQJmAQ"  "https://loxwiki.atlassian.net/wiki/x/w4KeOg" [R=301,L]
+
+# Page Title: eigene webseiten und scripte am loxberry betreiben
+RewriteRule   "^/x/KgR7AQ"  "https://loxwiki.atlassian.net/wiki/x/IISzOg" [R=301,L]
+
+# Page Title: hostname deines loxberry's ändern
+RewriteRule   "^/x/Ug3L"  "https://loxwiki.atlassian.net/wiki/x/SI0DOg" [R=301,L]
+
+# Page Title: syslog server (english)
+RewriteRule   "^/x/wQDgAQ"  "https://loxwiki.atlassian.net/wiki/x/t4AYOw" [R=301,L]
+
+# Page Title: loxberry::system::readlanguage
+RewriteRule   "^/x/GAJ7AQ"  "https://loxwiki.atlassian.net/wiki/x/DoKzOg" [R=301,L]
+
+# Page Title: perl html::template
+RewriteRule   "^/x/PgI_Ag"  "https://loxwiki.atlassian.net/wiki/x/NIJ2Ow" [R=301,L]
+
+# Page Title: waze routing (inoffizielle api)
+RewriteRule   "^/x/I4GzB"  "https://loxwiki.atlassian.net/wiki/x/GQHsPQ" [R=301,L]
+
+# Page Title: lbsystem::get_ftpport
+RewriteRule   "^/x/qgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/oIOzOg" [R=301,L]
+
+# Page Title: kopie von stats4lox::telegrafinternals
+RewriteRule   "^/x/6oVWBQ"  "https://loxwiki.atlassian.net/wiki/x/4AWPPg" [R=301,L]
+
+# Page Title: templates für die virtuellen ausgänge
+RewriteRule   "^/x/rYDlB"  "https://loxwiki.atlassian.net/wiki/x/owAePg" [R=301,L]
+
+# Page Title: whats new in v1.4
+RewriteRule   "^/x/UICxAg"  "https://loxwiki.atlassian.net/wiki/x/RgDqOw" [R=301,L]
+
+# Page Title: loxberry::storage::get_usbstorages
+RewriteRule   "^/x/UoO3AQ"  "https://loxwiki.atlassian.net/wiki/x/SAPwOg" [R=301,L]
+
+# Page Title: loxconfig ideensammlung
+RewriteRule   "^/x/l4LlB"  "https://loxwiki.atlassian.net/wiki/x/jQIePg" [R=301,L]
+
+# Page Title: einzeldurchsagen
+RewriteRule   "^/x/OIbeAg"  "https://loxwiki.atlassian.net/wiki/x/LgYXP" [R=301,L]
+
+# Page Title: whats new in v2.2.1
+RewriteRule   "^/x/MIhWBQ"  "https://loxwiki.atlassian.net/wiki/x/JgiPPg" [R=301,L]
+
+# Page Title: robonect
+RewriteRule   "^/x/BILeAg"  "https://loxwiki.atlassian.net/wiki/x/_gEXP" [R=301,L]
+
+# Page Title: generic support question answer
+RewriteRule   "^/x/foWdAQ"  "https://loxwiki.atlassian.net/wiki/x/dAXWOg" [R=301,L]
+
+# Page Title: perl-modul loxberry::log
+RewriteRule   "^/x/FwV7AQ"  "https://loxwiki.atlassian.net/wiki/x/DYWzOg" [R=301,L]
+
+# Page Title: lblog::notify
+RewriteRule   "^/x/jIC3AQ"  "https://loxwiki.atlassian.net/wiki/x/ggDwOg" [R=301,L]
+
+# Page Title: tcp2udp
+RewriteRule   "^/x/fAA_Ag"  "https://loxwiki.atlassian.net/wiki/x/coB2Ow" [R=301,L]
+
+# Page Title: weather4loxone
+RewriteRule   "^/x/owASAg"  "https://loxwiki.atlassian.net/wiki/x/mYBKOw" [R=301,L]
+
+# Page Title: e3dc2lox !!!entwurf!!!
+RewriteRule   "^/x/s4M_AQ"  "https://loxwiki.atlassian.net/wiki/x/qQN3Og" [R=301,L]
+
+# Page Title: ikea led panel
+RewriteRule   "^/x/-YDlB"  "https://loxwiki.atlassian.net/wiki/x/8wAePg" [R=301,L]
+
+# Page Title: what's new in v1.2.5
+RewriteRule   "^/x/84BYAg"  "https://loxwiki.atlassian.net/wiki/x/6QCROw" [R=301,L]
+
+# Page Title: vegehub von vegetronix - feuchtigkeitsmessung im boden
+RewriteRule   "^/x/bgcEB"  "https://loxwiki.atlassian.net/wiki/x/ZIc8PQ" [R=301,L]
+
+# Page Title: text2speech
+RewriteRule   "^/x/uoFYAg"  "https://loxwiki.atlassian.net/wiki/x/sAGROw" [R=301,L]
+
+# Page Title: modul loxberry-web
+RewriteRule   "^/x/wQzL"  "https://loxwiki.atlassian.net/wiki/x/t4wDOg" [R=301,L]
+
+# Page Title: plugin lässt sich nicht installieren
+RewriteRule   "^/x/14dYAg"  "https://loxwiki.atlassian.net/wiki/x/zQeROw" [R=301,L]
+
+# Page Title: zugriff auf den miniserver
+RewriteRule   "^/x/IQAEB"  "https://loxwiki.atlassian.net/wiki/x/F4A8PQ" [R=301,L]
+
+# Page Title: hmip-etrv-2
+RewriteRule   "^/x/yobeAg"  "https://loxwiki.atlassian.net/wiki/x/wAYXP" [R=301,L]
+
+# Page Title: modul stats4lox::migration
+RewriteRule   "^/x/egI_Ag"  "https://loxwiki.atlassian.net/wiki/x/cIJ2Ow" [R=301,L]
+
+# Page Title: loxberry::system::lbcountry
+RewriteRule   "^/x/CYCzB"  "https://loxwiki.atlassian.net/wiki/x/---rPQ" [R=301,L]
+
+# Page Title: get_storage_html named parameter
+RewriteRule   "^/x/eAHgAQ"  "https://loxwiki.atlassian.net/wiki/x/boEYOw" [R=301,L]
+
+# Page Title: mqtt gateway
+RewriteRule   "^/x/S4ZYAg"  "https://loxwiki.atlassian.net/wiki/x/QQaROw" [R=301,L]
+
+# Page Title: communication loxberry to miniserver - perl
+RewriteRule   "^/x/oQTqAw"  "https://loxwiki.atlassian.net/wiki/x/l4QiPQ" [R=301,L]
+
+# Page Title: synology surveillance station v2
+RewriteRule   "^/x/mID-/"  "https://loxwiki.atlassian.net/wiki/x/jgA4Og" [R=301,L]
+
+# Page Title: standardbefehle
+RewriteRule   "^/x/PYbeAg"  "https://loxwiki.atlassian.net/wiki/x/MwYXP" [R=301,L]
+
+# Page Title: update von 0.2.x auf 1.0
+RewriteRule   "^/x/-YSdAQ"  "https://loxwiki.atlassian.net/wiki/x/8wTWOg" [R=301,L]
+
+# Page Title: perl loxberry sdk dokumentation
+RewriteRule   "^/x/uAzL"  "https://loxwiki.atlassian.net/wiki/x/rowDOg" [R=301,L]
+
+# Page Title: loxberry::system::get_miniservers
+RewriteRule   "^/x/xAzL"  "https://loxwiki.atlassian.net/wiki/x/uowDOg" [R=301,L]
+
+# Page Title: einbau i2c
+RewriteRule   "^/x/UQZ7AQ"  "https://loxwiki.atlassian.net/wiki/x/R4azOg" [R=301,L]
+
+# Page Title: grünbeck
+RewriteRule   "^/x/0QE_Ag"  "https://loxwiki.atlassian.net/wiki/x/x4F2Ow" [R=301,L]
+
+# Page Title: loxberry::system::lbwebserverport
+RewriteRule   "^/x/kgN7AQ"  "https://loxwiki.atlassian.net/wiki/x/iIOzOg" [R=301,L]
+
+# Page Title: bash - supporting scripts for your plugin development
+RewriteRule   "^/x/rYKdAQ"  "https://loxwiki.atlassian.net/wiki/x/owLWOg" [R=301,L]
+
+# Page Title: proxmox
+RewriteRule   "^/x/bwDqAw"  "https://loxwiki.atlassian.net/wiki/x/ZYAiPQ" [R=301,L]
+
+# Page Title: silvercrest 3fach steckerverteiler plug
+RewriteRule   "^/x/_YDlB"  "https://loxwiki.atlassian.net/wiki/x/7wAePg" [R=301,L]
+
+# Page Title: loxpoolmanager
+RewriteRule   "^/x/D4JtB"  "https://loxwiki.atlassian.net/wiki/x/BQKmPQ" [R=301,L]
+
